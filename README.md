@@ -53,6 +53,8 @@ The following questions will guide us throughout this project:
 - Access method: Download
 
 ## 3. Cleaning and manipulation
+
+<b>Processing steps</b>:
 The whole data preprocessing includes the following stages:
 - <b><ins>Filtration</b></ins>:
   - Filter non-data related jobs from both datasets.
@@ -72,3 +74,53 @@ The key challenges that we expect to encounter are the following:
 - Extracting the skills from the text since no pattern and standards are available to search and extract those terms, which may consist of single or multiple words in addition to some terms that look different, but those implying the same skills such as coding vs. programming.
 - Given the 2nd dataset does not include industries, it may require to fill this feature by other ways such as finding out the industries based on employer names from the 1st dataset given it has industries, or predict the industries based on the key words of employer names in the 2nd dataset.
 - Remove duplicate job posting records given employer names, content and tiles, especially since the content includes lots of text, so we need to evaluate the contents to verify whether or not they are the same.
+
+
+<b>Expected output</b>:
+
+After the data cleaning and manipulation, the expected output as below:
+
+<ins>Table 1</ins>: Main table
+- Name: main
+- Description: the table stores the processed job detail info.
+- Format: Pandas Dataframe
+- Fields:
+
+| Names | Descriptions | Data Type | Format | Constraints |
+| :----------- | :----------------- | :----------------- | :----------------- | :----------------- |
+| posting_date | Job posting date | Datetime | MM-DD-YYYY | Not null |
+| description | Job posting description | String | In English, lowercase | Not null |
+| title | job title | String ( 80 characters) | In English, lowercase |  |
+| country | country of job | String ( 80 characters) |  In English, lowercase,full name of country |  |
+| employer | Employer full name | String ( 80 characters) | In English, lowercase | Not null  |
+| industry | Industry name | String ( 80 characters) | In English, lowercase (to be listed) |  |
+| id  | Unique id to identify job posting, automatically generated during data manipulation process | int64 | 11 digits | Unique, foreign key to the table ( skill) |
+| Source | From Glassdoor or Indeed |  String |  ‘Glassdoor’ ‘Indeed’ |  Not null |
+
+<ins>Table 2</ins>: Skill table
+- Name: skills
+- Description: the table stores the skill from each job posting.
+- Format: Pandas Dataframe
+- Fields:
+
+| Names | Descriptions | Data Type | Format | Constraints |
+| :----------- | :----------------- | :----------------- | :----------------- | :----------------- |
+| id | Unique id to identify job posting, automatically generated during data manipulation process | int64 | 11 digits | Unique, foreign key to the table ( main) |
+| skill | Skill name | String |  | Not null  |
+| type | Skill type | String | ‘Soft skills’, such as leadership, teamwork etc. ‘Hard skills’, such as python programming, supervised learning algorithms etc. | Not null |
+
+ ## 4. Analysis
+ 
+ <b>Analysis flow</b>
+
+- <b><ins>Identify the top skills for data-related positions</b></ins>:
+  - <b>Approach</b>: Parse the skills from the job description from the combined dataset using Spark and group by positions then visualize the resulting manipulation.
+  - <b>Expectation</b>: Many data related jobs will have similar skills, but for each position certain skills will be emphasized, highlighted, or weighted more than other positions.
+
+- <b><ins>Distribution of skills across industries, countries, and time periods</b></ins>:
+  - <b>Approach</b>: Using Pandas and Numpy to manipulate the data to plot different distributions of skill requirements across industries, countries and time periods.
+  - <b>Expectation</b>: The progression of big data, AI, and machine learning varies for each country while different combinations of skills will be required for various industries. For example, the expectations and requirements for a job in the United States will differ from those of a job in Hong Kong.
+
+- <b><ins>Characteristics of data-related jobs</b></ins>:
+  - <b>Approach</b>: Using K-means clustering/topic modeling to group and analyze the data-related skill requirements.
+  - <b>Expectation</b>: In different industries, we expect to see specific skills standout as well as different countries/locations.
