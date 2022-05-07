@@ -124,3 +124,15 @@ After the data cleaning and manipulation, the expected output as below:
 - <b><ins>Characteristics of data-related jobs</b></ins>:
   - <b>Approach</b>: Using K-means clustering/topic modeling to group and analyze the data-related skill requirements.
   - <b>Expectation</b>: In different industries, we expect to see specific skills standout as well as different countries/locations.
+
+## 5. Visualization
+- <b><ins>Bar Chart</b></ins>: To analyze the top 10 skills in the job markets, which can be further broken down by industries (in the 1st subplot in bar chart), countries (in the 2nd subplot in heatmap)
+- <b><ins>Line Chart</b></ins>: To analyze the trend of DS skills over the span of one year.
+Features include DS skills on the y-axis and date on the x-axis
+- <b><ins>Stacked Bar Chart</b></ins>: To analyze the differences between required skills for data science jobs and non-data scientist jobs.
+- <b><ins>Scatterplot</b></ins>: To visualize and analyze the results from clustering.
+
+## 6. Ethical Consideration
+- <b><ins>Bias from the judgment of DS skills</b></ins>. Defining and categorizing skills may be impacted by the bias from project members given human judgment is required here. The final analysis could mislead the audience, for example, some skills are excluded but those may be counted as one of top 10. To mitigate the risk, we may consider introducing the 3rd party tools to validate the definition and category of skills.
+
+- <b><ins>Transparency on potential algorithms used to extract DS skills</b></ins>. Algorithms may be introduced to extract key phrases in terms of DS skills. How those algorithms work, and what key factors may impact the results will be explained and presented in the related project documents to provide a more in depth explanation, which could improve the transparency of algorithms and win the trust of users or audiences.
