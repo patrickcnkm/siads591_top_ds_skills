@@ -95,7 +95,7 @@ After the data cleaning and manipulation, the expected output as below:
 | employer | Employer full name | String ( 80 characters) | In English, lowercase | Not null  |
 | industry | Industry name | String ( 80 characters) | In English, lowercase (to be listed) |  |
 | id  | Unique id to identify job posting, automatically generated during data manipulation process | int64 | 11 digits | Unique, foreign key to the table ( skill) |
-| Source | From Glassdoor or Indeed |  String |  ‘Glassdoor’ ‘Indeed’ |  Not null |
+| source | From Glassdoor or Indeed |  String |  ‘Glassdoor’ ‘Indeed’ |  Not null |
 
 <ins>Table 2</ins>: Skill table
 - Name: skills
