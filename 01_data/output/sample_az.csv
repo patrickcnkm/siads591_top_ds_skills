@@ -1,504 +1,492 @@
 ,id,skill,category,confidence score
-421,4197200540.0,tensorflows,Skill,0.69
-422,4197200540.0,tensorflows,Product,0.85
-423,4197200540.0,pytorch,Skill,0.73
-424,4197200540.0,pytorch,Product,0.96
-425,4197200540.0,keras,Skill,0.93
-426,4197200540.0,keras,Product,0.94
-427,4197200540.0,pyspark,Organization,0.52
-1142,4035778057.0,research,Skill,0.71
-1143,4035778057.0,machine learning,Skill,0.95
-1144,4035778057.0,decision support,Skill,0.94
-1145,4035778057.0,support.be,Organization,0.9
-1146,4035778057.0,data discovery,Skill,0.93
-1147,4035778057.0,generation,Skill,0.69
-1148,4035778057.0,data,Skill,0.59
-1149,4035778057.0,optimal analytical solutions,Skill,0.57
-1150,4035778057.0,business,Skill,0.53
-2065,4163505477.0,mthodes,Skill,0.76
-2066,4163505477.0,modlisation,Skill,0.98
-2067,4163505477.0,machine learning,Skill,0.99
-2068,4163505477.0,deep learning,Skill,0.99
-2069,4163505477.0,text mining,Skill,1.0
-2070,4163505477.0,python,Skill,1.0
-2071,4163505477.0,perl,Skill,1.0
-2072,4163505477.0,java,Skill,1.0
-2073,4163505477.0,c,Skill,1.0
-2074,4163505477.0,c++,Skill,1.0
-3459,4170026582.0,machine learning,Skill,1.0
-3460,4170026582.0,deep learning,Skill,0.99
-3461,4170026582.0,regression,Skill,0.99
-3462,4170026582.0,clustering,Skill,0.76
-3463,4170026582.0,text mining,Skill,1.0
-3464,4170026582.0,neural networks,Skill,0.99
-3465,4170026582.0,random forests,Skill,0.91
-3466,4170026582.0,logistic regression,Skill,0.99
-3467,4170026582.0,svm,Skill,0.83
-3468,4170026582.0,knn,Skill,0.94
-3469,4170026582.0,k-means,Skill,0.96
-3470,4170026582.0,lda,Skill,0.91
-3471,4170026582.0,programming languages,Skill,0.85
-3472,4170026582.0,python,Skill,0.92
-3473,4170026582.0,scala,Skill,0.97
-3474,4170026582.0,analytics,Skill,0.96
-3475,4170026582.0,cassandra,Skill,0.48
-3476,4170026582.0,more than 3 years,DateTime,0.8
-3477,4170026582.0,computer science,Skill,0.98
-3478,4170026582.0,machine learning,Skill,0.99
-3479,4170026582.0,mathematics,Skill,1.0
-3480,4170026582.0,statistics,Skill,0.98
-3481,4170026582.0,agile/,Skill,0.84
-3482,4170026582.0,scrum,Skill,0.61
-3483,4170026582.0,analytical,Skill,0.89
-3484,4170026582.0,content,Skill,0.62
-3485,4170026582.0,business,Skill,0.8
-3486,4170026582.0,programmer,PersonType,0.85
-3487,4170026582.0,learn,Skill,0.65
-3488,4170026582.0,development,Skill,0.93
-3489,4170026582.0,technical,Skill,0.66
-3490,4170026582.0,communication,Skill,0.66
-3491,4170026582.0,entrepreneurial,Skill,0.97
-3492,4170026582.0,responsibility,Skill,0.75
-3493,4170026582.0,data scientist,PersonType,0.73
-3494,4170026582.0,banking,Skill,0.9
-3495,4170026582.0,research,Skill,0.96
-3496,4170026582.0,strategic,Skill,0.89
-3497,4170026582.0,operational,Skill,0.97
-8367,4101129848.0,business,Skill,0.83
-8368,4101129848.0,data science,Skill,0.97
-8369,4101129848.0,quantitative models,Skill,0.79
-8370,4101129848.0,consumer,PersonType,0.6
-8371,4101129848.0,choice,Skill,0.65
-8372,4101129848.0,engagement,Skill,0.6
-8373,4101129848.0,marketing,Skill,0.96
-8374,4101129848.0,performance metrics,Skill,0.98
-8375,4101129848.0,experiments,Skill,0.78
-8376,4101129848.0,algorithms,Skill,0.98
-8377,4101129848.0,mentor,Skill,0.65
-8378,4101129848.0,mentor,PersonType,0.64
-8379,4101129848.0,junior data scientists,PersonType,0.75
-8380,4101129848.0,technical,Skill,0.84
-8381,4101129848.0,data science,Skill,0.97
-8382,4101129848.0,problems.work,Organization,0.9
-8383,4101129848.0,engineers,PersonType,0.99
-8384,4101129848.0,product managers,PersonType,0.95
-8385,4101129848.0,business,Skill,0.84
-8386,4101129848.0,data scientists,PersonType,0.95
-8387,4101129848.0,business,Skill,0.81
-8388,4101129848.0,business leaders,PersonType,0.8
-8389,4101129848.0,visionary ceos,PersonType,0.83
-8390,4101129848.0,client,PersonType,0.7
-8391,4101129848.0,8 years,DateTime,0.8
-8392,4101129848.0,4 years,DateTime,0.8
-8393,4101129848.0,data science,Skill,0.99
-8394,4101129848.0,machine learning,Skill,1.0
-8395,4101129848.0,statistical modeling,Skill,1.0
-8396,4101129848.0,math,Skill,0.97
-8397,4101129848.0,statistics,Skill,0.99
-8398,4101129848.0,computer science,Skill,0.99
-8399,4101129848.0,operations research,Skill,1.0
-8400,4101129848.0,computational social science,Skill,0.84
-8401,4101129848.0,technical,Skill,0.55
-8402,4101129848.0,data science,Skill,0.98
-8403,4101129848.0,prototype,Skill,0.94
-8404,4101129848.0,algorithms,Skill,0.61
-8405,4101129848.0,real data,Skill,0.58
-8406,4101129848.0,communication,Skill,0.98
-8407,4101129848.0,articulate,Skill,0.96
-8408,4101129848.0,communicate,Skill,0.95
-8409,4101129848.0,senior management,PersonType,0.64
-8410,4101129848.0,team,PersonType,0.79
-8411,4101129848.0,player,PersonType,0.49
-8412,4101129848.0,collaborator,PersonType,0.99
-8413,4101129848.0,project management,Skill,0.89
-8414,4101129848.0,execution,Skill,0.39
-8415,4101129848.0,programming,Skill,0.96
-8416,4101129848.0,data science,Skill,0.95
-8417,4101129848.0,languages,Skill,0.75
-8418,4101129848.0,python,Skill,0.99
-8419,4101129848.0,r,Skill,0.98
-8420,4101129848.0,scala.,Skill,0.8
-8421,4101129848.0,recommendation systems,Skill,0.96
-8422,4101129848.0,nlp,Skill,0.98
-8423,4101129848.0,numpy,Skill,0.58
-8424,4101129848.0,pandas,Skill,0.54
-8425,4101129848.0,ml,Quantity,0.8
-8426,4101129848.0,deep learning,Skill,0.86
-8427,4101129848.0,cntk,Organization,0.5
-8428,4101129848.0,mxnet,Organization,0.44
-8429,4101129848.0,data sets,Skill,0.58
-8430,4101129848.0,big data technologies,Skill,0.95
-8431,4101129848.0,hadoop,Organization,0.4
-8432,4101129848.0,maps data,Skill,0.63
-8433,4101129848.0,scrum framework,Skill,1.0
-10063,4147274432.0,data sciences,Skill,0.98
-10064,4147274432.0,analytics,Skill,0.97
-10065,4147274432.0,professionals,PersonType,0.52
-10066,4147274432.0,pharmaceutical development,Skill,0.94
-10067,4147274432.0,manufacturing,Skill,0.86
-10068,4147274432.0,science,Skill,0.9
-10069,4147274432.0,operations.work,Organization,0.9
-10070,4147274432.0,management,Skill,0.41
-10071,4147274432.0,data model,Skill,0.93
-10072,4147274432.0,chemistry,Skill,0.75
-10073,4147274432.0,manufacturing,Skill,0.87
-10074,4147274432.0,pharmaceutical process,Skill,0.84
-10075,4147274432.0,analytical development,Skill,0.94
-10076,4147274432.0,quality control,Skill,0.96
-10077,4147274432.0,business process,Skill,0.9
-10078,4147274432.0,business process,PersonType,0.55
-10079,4147274432.0,owners,PersonType,0.41
-10080,4147274432.0,data stewards,PersonType,0.91
-10081,4147274432.0,data management,Skill,0.7
-10082,4147274432.0,governance,Skill,0.73
-10083,4147274432.0,data sciences,Skill,0.99
-10084,4147274432.0,knowledge management,Skill,0.85
-10085,4147274432.0,predictive analytics,Skill,1.0
-10086,4147274432.0,scientific,Skill,0.97
-10087,4147274432.0,operational datasets,Skill,0.83
-10088,4147274432.0,senior,Skill,0.66
-10089,4147274432.0,data sciences,Skill,0.72
-10090,4147274432.0,framework,Skill,0.52
-10091,4147274432.0,pdm,Organization,0.73
-10092,4147274432.0,data sciences,Skill,0.59
-10093,4147274432.0,knowledge management,Skill,0.91
-10094,4147274432.0,data governance,Skill,0.89
-10095,4147274432.0,data sets,Skill,0.84
-10096,4147274432.0,data cataloguing,Skill,0.96
-10097,4147274432.0,storage,Skill,0.81
-10098,4147274432.0,compute,Skill,0.89
-10099,4147274432.0,processing,Skill,0.98
-10100,4147274432.0,analysis,Skill,0.99
-10101,4147274432.0,search,Skill,0.55
-10102,4147274432.0,business intelligence,Skill,0.8
-10103,4147274432.0,visualizations,Skill,0.95
-10104,4147274432.0,reporting,Skill,0.98
-10105,4147274432.0,dashboards,Skill,0.99
-10106,4147274432.0,data sciences,Skill,0.94
-10107,4147274432.0,assessments,Skill,0.86
-10108,4147274432.0,value,Skill,0.57
-10109,4147274432.0,business,Skill,0.53
-10110,4147274432.0,technology,Skill,0.89
-10111,4147274432.0,analytics,Skill,0.75
-10112,4147274432.0,web,Skill,0.68
-10113,4147274432.0,data visualization,Skill,0.86
-10114,4147274432.0,tableau,Product,0.51
-10115,4147274432.0,spotfire,Product,0.52
-10116,4147274432.0,reports,Skill,0.96
-10117,4147274432.0,dashboards,Skill,1.0
-10118,4147274432.0,monitoring,Skill,1.0
-10119,4147274432.0,pdm,Organization,0.75
-10120,4147274432.0,analytical operations,Skill,0.99
-10121,4147274432.0,clinical supply chain management,Skill,0.95
-10122,4147274432.0,chemical development,Skill,0.99
-10123,4147274432.0,pharmaceutical quality assurance,Skill,0.79
-10124,4147274432.0,data,Skill,0.9
-10125,4147274432.0,iterating,Skill,0.98
-10126,4147274432.0,collaboration,Skill,0.88
-10127,4147274432.0,data consumers,PersonType,0.61
-10128,4147274432.0,performance,Skill,0.75
-10129,4147274432.0,change management,Skill,0.81
-10130,4147274432.0,business,Skill,0.66
-10131,4147274432.0,vendor,PersonType,0.58
-10132,4147274432.0,data analysis,Skill,0.78
-10133,4147274432.0,data structures,Skill,0.81
-10134,4147274432.0,visualizations,Skill,0.9
-10135,4147274432.0,business processes,Skill,0.58
-10136,4147274432.0,data sciences,Skill,0.87
-10137,4147274432.0,methodology,Skill,0.57
-10138,4147274432.0,technologies,Skill,0.84
-10139,4147274432.0,communications,Skill,0.91
-10140,4147274432.0,change management,Skill,0.91
-10141,4147274432.0,management.be,Organization,0.9
-10142,4147274432.0,analytical methods,Skill,0.95
-10143,4147274432.0,business,Skill,0.87
-10144,4147274432.0,data,Skill,0.82
-10145,4147274432.0,algorithms,Skill,0.91
-10146,4147274432.0,optimization techniques,Skill,0.81
-10147,4147274432.0,security,Skill,0.9
-10148,4147274432.0,access,Skill,0.5
-10149,4147274432.0,data,Skill,0.95
-10150,4147274432.0,data-driven,Skill,0.74
-10151,4147274432.0,data-driven,Skill,0.62
-10152,4147274432.0,data-driven decision making,Skill,0.76
-10153,4147274432.0,quantitative analysis,Skill,0.92
-10154,4147274432.0,data sciences,Skill,0.95
-10155,4147274432.0,data-driven experiments,Skill,0.86
-10156,4147274432.0,big data,Skill,0.96
-10157,4147274432.0,cloud,Skill,0.98
-10158,4147274432.0,analytics,Skill,1.0
-10159,4147274432.0,visualization technologies,Skill,0.76
-10160,4147274432.0,big data,Skill,0.99
-10161,4147274432.0,cloud,Skill,0.97
-10162,4147274432.0,data streaming,Skill,0.99
-10163,4147274432.0,real-time analytics,Skill,1.0
-10164,4147274432.0,automation,Skill,1.0
-10165,4147274432.0,artificial intelligence,Skill,0.83
-10166,4147274432.0,machine learning,Skill,0.99
-10167,4147274432.0,interactive visualization,Skill,0.99
-10168,4147274432.0,batch processing,Skill,0.96
-10169,4147274432.0,implementation,Skill,0.96
-10170,4147274432.0,development,Skill,0.96
-10171,4147274432.0,management,Skill,0.96
-10172,4147274432.0,business information systems,Skill,0.67
-10173,4147274432.0,strategy,Skill,0.94
-10174,4147274432.0,business,Skill,0.66
-10175,4147274432.0,consultant,PersonType,0.99
-10176,4147274432.0,business,Skill,0.9
-10177,4147274432.0,schedule,Skill,0.79
-10178,4147274432.0,business systems,Skill,0.98
-10179,4147274432.0,manages,Skill,0.96
-10180,4147274432.0,senior management,PersonType,0.69
-10181,4147274432.0,management,Skill,0.34
-10182,4147274432.0,project lead,PersonType,0.8
-10183,4147274432.0,development,Skill,0.62
-10184,4147274432.0,systems strategy,Skill,0.92
-10185,4147274432.0,technical spokesperson,PersonType,0.74
-10186,4147274432.0,business,Skill,0.84
-10187,4147274432.0,may,DateTime,0.8
-10188,4147274432.0,budget,Skill,0.76
-10189,4147274432.0,manages,Skill,0.99
-10190,4147274432.0,professional,Skill,0.54
-10191,4147274432.0,team members,PersonType,0.75
-10192,4147274432.0,performance,Skill,0.74
-10193,4147274432.0,subordinates,PersonType,0.92
-10194,4147274432.0,organizational goals,Skill,0.88
-10195,4147274432.0,company policy,Skill,0.72
-10196,4147274432.0,procedures,Skill,0.6
-10197,4147274432.0,degree,Quantity,0.8
-10198,4147274432.0,eight,Quantity,0.8
-10199,4147274432.0,8,Quantity,0.8
-10200,4147274432.0,degree,Quantity,0.8
-10201,4147274432.0,six,Quantity,0.8
-10202,4147274432.0,6,Quantity,0.8
-10203,4147274432.0,two,Quantity,0.8
-10204,4147274432.0,2,Quantity,0.8
-10205,4147274432.0,science,Skill,0.98
-10206,4147274432.0,computer science,Skill,1.0
-10207,4147274432.0,manage,Skill,0.97
-10208,4147274432.0,develop,Skill,0.94
-10209,4147274432.0,technology,Skill,0.86
-10210,4147274432.0,develop,Skill,0.5
-10211,4147274432.0,manage,Skill,0.97
-10212,4147274432.0,degree,Quantity,0.8
-10213,4147274432.0,creativity,Skill,0.97
-10214,4147274432.0,innovation,Skill,0.96
-10215,4147274432.0,analyze,Skill,1.0
-10216,4147274432.0,manage,Skill,0.98
-10217,4147274432.0,data sets,Skill,0.93
-10218,4147274432.0,strategies,Skill,0.99
-10219,4147274432.0,visualizing,Skill,0.99
-10220,4147274432.0,communicating,Skill,1.0
-10221,4147274432.0,business,Skill,0.91
-10222,4147274432.0,strategic decisions,Skill,0.67
-10223,4147274432.0,statistical analysis,Skill,1.0
-10224,4147274432.0,programming,Skill,1.0
-10225,4147274432.0,data mining,Skill,1.0
-10226,4147274432.0,database management,Skill,1.0
-10227,4147274432.0,data security,Skill,1.0
-10228,4147274432.0,data visualization,Skill,1.0
-10229,4147274432.0,applied data science,Skill,1.0
-10230,4147274432.0,querying,Skill,1.0
-10231,4147274432.0,programming languages,Skill,0.96
-10232,4147274432.0,r,Skill,1.0
-10233,4147274432.0,python,Skill,1.0
-10234,4147274432.0,java,Skill,1.0
-10235,4147274432.0,c++,Skill,1.0
-10236,4147274432.0,python,Skill,0.99
-10237,4147274432.0,cgmp,Organization,0.6
-10238,4147274432.0,computer validation,Skill,0.99
-10239,4147274432.0,pharmaceutical,Skill,0.61
-10240,4147274432.0,compliance,Skill,0.75
-10241,4147274432.0,data integrity,Skill,0.99
-10242,4147274432.0,quality analytics,Skill,0.99
-10243,4147274432.0,21,Quantity,0.8
-10244,4147274432.0,11,Quantity,0.8
-10245,4147274432.0,11,Quantity,0.8
-10246,4147274432.0,21,Quantity,0.8
-10247,4147274432.0,58,Quantity,0.8
-10248,4147274432.0,210,Quantity,0.8
-10249,4147274432.0,211,Quantity,0.8
-13353,4141919159.0,advanced analytics group,Organization,0.94
-13354,4141919159.0,aag,Organization,0.86
-13355,4141919159.0,experts,PersonType,0.89
-13356,4141919159.0,data science,Skill,1.0
-13357,4141919159.0,engineering,Skill,1.0
-13358,4141919159.0,marketing science,Skill,1.0
-13359,4141919159.0,operations research,Skill,1.0
-13360,4141919159.0,primary market research,Skill,0.85
-13361,4141919159.0,advanced analytics specialist,PersonType,0.56
-13362,4141919159.0,bains consulting,Organization,0.78
-13363,4141919159.0,clients,PersonType,0.9
-13364,4141919159.0,candidate,PersonType,0.84
-13365,4141919159.0,research,Skill,0.82
-13366,4141919159.0,training,Skill,0.95
-13367,4141919159.0,consulting staff,Skill,0.64
-13368,4141919159.0,consulting staff,PersonType,0.63
-13369,4141919159.0,communicate,Skill,0.99
-13370,4141919159.0,analytics,Skill,0.95
-13371,4141919159.0,experts,PersonType,0.55
-13372,4141919159.0,business,Skill,0.93
-13373,4141919159.0,leaders,PersonType,0.53
-13374,4141919159.0,bain,Organization,0.59
-13375,4141919159.0,data,Skill,0.62
-13376,4141919159.0,bain,Organization,0.54
-13377,4141919159.0,clients,PersonType,0.8
-13378,4141919159.0,data,Skill,0.95
-13379,4141919159.0,analytics,Skill,0.92
-13380,4141919159.0,data engineering,Skill,0.98
-13381,4141919159.0,analytics,Skill,0.99
-13382,4141919159.0,visualization applications,Skill,0.95
-13383,4141919159.0,data science,Skill,0.94
-13384,4141919159.0,clients,PersonType,0.86
-13385,4141919159.0,case,Skill,0.83
-13386,4141919159.0,client demands,Skill,0.61
-13387,4141919159.0,client,PersonType,0.76
-13388,4141919159.0,data science,Skill,0.98
-13389,4141919159.0,client,PersonType,0.96
-13390,4141919159.0,develop solutions,Skill,0.85
-13391,4141919159.0,critical insights,Skill,0.98
-13392,4141919159.0,customers,PersonType,0.88
-13393,4141919159.0,segmenting markets,Skill,0.77
-13394,4141919159.0,product design,Skill,0.99
-13395,4141919159.0,marketing optimization,Skill,0.93
-13396,4141919159.0,demand forecasting,Skill,0.61
-13397,4141919159.0,price analyses,Skill,0.8
-13398,4141919159.0,fraud detection,Skill,0.97
-13399,4141919159.0,develop,Skill,0.99
-13400,4141919159.0,prototype,Skill,1.0
-13401,4141919159.0,machine learning,Skill,0.8
-13402,4141919159.0,algorithms,Skill,0.59
-13403,4141919159.0,data sets,Skill,0.95
-13404,4141919159.0,machine learning,Skill,0.99
-13405,4141919159.0,statistical techniques,Skill,0.88
-13406,4141919159.0,regression models,Skill,1.0
-13407,4141919159.0,decision trees,Skill,0.99
-13408,4141919159.0,random forests,Skill,0.94
-13409,4141919159.0,gradient boosting,Skill,0.99
-13410,4141919159.0,support vector machines,Skill,0.97
-13411,4141919159.0,clustering,Skill,0.98
-13412,4141919159.0,models,Skill,0.7
-13413,4141919159.0,sources,Skill,0.52
-13414,4141919159.0,data,Skill,0.83
-13415,4141919159.0,data wrangling,Skill,0.98
-13416,4141919159.0,infrastructure,Skill,0.75
-13417,4141919159.0,cloud computing,Skill,0.81
-13418,4141919159.0,database,Skill,0.51
-13419,4141919159.0,statistical methodologies,Skill,1.0
-13420,4141919159.0,machine learning,Skill,1.0
-13421,4141919159.0,data wrangling,Skill,1.0
-13422,4141919159.0,train,Skill,0.75
-13423,4141919159.0,members,PersonType,0.41
-13424,4141919159.0,support,Skill,0.6
-13425,4141919159.0,data analytics,Skill,0.71
-13426,4141919159.0,machine learning,Skill,0.83
-13427,4141919159.0,5,Quantity,0.8
-13428,4141919159.0,data science,Skill,0.96
-13429,4141919159.0,statistical analysis,Skill,0.98
-13430,4141919159.0,business,Skill,0.96
-13431,4141919159.0,marketing science,Skill,0.98
-13432,4141919159.0,social science,Skill,0.98
-13433,4141919159.0,degree,Quantity,0.8
-13434,4141919159.0,computer science,Skill,0.99
-13435,4141919159.0,artificial intelligence,Skill,0.96
-13436,4141919159.0,applied mathematics,Skill,0.98
-13437,4141919159.0,econometrics,Skill,1.0
-13438,4141919159.0,statistics,Skill,0.99
-13439,4141919159.0,physics,Skill,0.96
-13440,4141919159.0,mathematics,Skill,0.95
-13441,4141919159.0,data wrangling,Skill,0.98
-13442,4141919159.0,visualization,Skill,0.99
-13443,4141919159.0,modeling,Skill,0.95
-13444,4141919159.0,r,Skill,0.88
-13445,4141919159.0,python,Skill,0.9
-13446,4141919159.0,vba,Skill,0.98
-13447,4141919159.0,javascript,Skill,1.0
-13448,4141919159.0,alteryx,Skill,0.86
-13449,4141919159.0,predictive modeling,Skill,1.0
-13450,4141919159.0,churn analysis,Skill,0.99
-13451,4141919159.0,time series forecasting,Skill,0.99
-13452,4141919159.0,computer vision,Skill,1.0
-13453,4141919159.0,text mining,Skill,1.0
-13454,4141919159.0,recommender systems,Skill,0.87
-13455,4141919159.0,market basket analysis,Skill,0.99
-13456,4141919159.0,segmentation,Skill,1.0
-13457,4141919159.0,graph analytics,Skill,1.0
-13458,4141919159.0,natural language processing,Skill,0.99
-13459,4141919159.0,text analytics,Skill,0.63
-13460,4141919159.0,dashboard,Skill,0.86
-13461,4141919159.0,reporting,Skill,0.55
-13462,4141919159.0,software development,Skill,0.61
-13463,4141919159.0,interpersonal,Skill,0.99
-13464,4141919159.0,communication,Skill,0.98
-13465,4141919159.0,mathematical,Skill,0.98
-13466,4141919159.0,machine learning,Skill,0.97
-13467,4141919159.0,business,Skill,0.95
-14263,4182008825.0,data,Skill,0.67
-14264,4182008825.0,impact,Skill,0.53
-14265,4182008825.0,clients,PersonType,0.95
-18896,4121953071.0,predictive models,Skill,0.64
-18897,4121953071.0,customers,PersonType,0.84
-18898,4121953071.0,analysing data,Skill,0.71
-18899,4121953071.0,quality,Skill,0.6
-18900,4121953071.0,collaborating,Skill,0.61
-18901,4121953071.0,engineers,PersonType,0.98
-18902,4121953071.0,ml,Quantity,0.8
-18903,4121953071.0,production systems,Skill,0.79
-18904,4121953071.0,collaborating,Skill,0.89
-18905,4121953071.0,product managers,PersonType,0.9
-18906,4121953071.0,stakeholders,PersonType,0.78
-18907,4121953071.0,educational,Skill,0.57
-18908,4121953071.0,m.sc,Organization,0.9
-18909,4121953071.0,computer science,Skill,0.99
-18910,4121953071.0,mathematics,Skill,0.98
-18911,4121953071.0,statistics,Skill,0.98
-18912,4121953071.0,field.at,Organization,0.9
-18913,4121953071.0,3 years,DateTime,0.8
-18914,4121953071.0,ml,Quantity,0.8
-18915,4121953071.0,-learn,Organization,0.5
-18916,4121953071.0,machine,Skill,0.67
-18917,4121953071.0,customer behavior analysis,Skill,0.88
-18918,4121953071.0,data pipelines,Skill,0.72
-18919,4121953071.0,data science,Skill,0.85
-18920,4121953071.0,data,Skill,0.58
-18921,4121953071.0,customer data,Skill,0.89
-18922,4121953071.0,order data,Skill,0.75
-18923,4121953071.0,customer care data,Skill,0.73
-18924,4121953071.0,100,Quantity,0.8
-18925,4121953071.0,data scientists,PersonType,0.94
-18926,4121953071.0,zalando,Organization,0.75
-18927,4121953071.0,collaborate,Skill,0.97
-18928,4121953071.0,agile development,Skill,0.87
-18929,4121953071.0,open source,Skill,0.74
-18930,4121953071.0,nights,DateTime,0.8
-18931,4121953071.0,70,Quantity,0.8
-18932,4121953071.0,employee,PersonType,0.81
-18933,4121953071.0,40%,Quantity,0.8
-18934,4121953071.0,offices,Location,0.7
-18935,4121953071.0,beverages,Product,0.83
-18936,4121953071.0,fruits,Product,0.81
-18937,4121953071.0,onboarding,Skill,0.87
-18938,4121953071.0,mentoring,Skill,0.96
-18939,4121953071.0,personal development,Skill,0.75
-18940,4121953071.0,experts,PersonType,0.85
-22642,4209136866.0,2,Quantity,0.8
-22643,4209136866.0,analyzing,Skill,1.0
-22644,4209136866.0,data,Skill,0.71
-22645,4209136866.0,web,Skill,0.97
-22646,4209136866.0,cloud applications,Skill,0.94
-22647,4209136866.0,2,Quantity,0.8
-22648,4209136866.0,data modeling,Skill,1.0
-22649,4209136866.0,data design,Skill,1.0
-22650,4209136866.0,persistence,Skill,0.99
-22651,4209136866.0,warehousing,Skill,1.0
-22652,4209136866.0,data marts,Skill,1.0
-22653,4209136866.0,data lakes,Skill,1.0
-22654,4209136866.0,data,Skill,0.53
-22655,4209136866.0,hadoop,Organization,0.65
-22656,4209136866.0,spark,Organization,0.53
-22657,4209136866.0,hive,Organization,0.47
-22658,4209136866.0,nifi,Skill,0.95
-22659,4209136866.0,docker,PersonType,0.63
-22660,4209136866.0,agile environment,Skill,0.82
-22661,4209136866.0,data modeling,Skill,1.0
-22662,4209136866.0,2 years,DateTime,0.8
+420,4197200540.0,tensorflows,Skill,0.69
+421,4197200540.0,tensorflows,Product,0.85
+422,4197200540.0,pytorch,Skill,0.73
+423,4197200540.0,pytorch,Product,0.96
+424,4197200540.0,keras,Skill,0.93
+425,4197200540.0,keras,Product,0.94
+426,4197200540.0,pyspark,Organization,0.52
+1154,4035778057.0,research,Skill,0.71
+1155,4035778057.0,machine learning,Skill,0.95
+1156,4035778057.0,decision support,Skill,0.94
+1157,4035778057.0,support.be,Organization,0.9
+1158,4035778057.0,data discovery,Skill,0.93
+1159,4035778057.0,generation,Skill,0.69
+1160,4035778057.0,data,Skill,0.59
+1161,4035778057.0,optimal analytical solutions,Skill,0.57
+1162,4035778057.0,business,Skill,0.53
+2085,4163505477.0,mthodes,Skill,0.76
+2086,4163505477.0,modlisation,Skill,0.98
+2087,4163505477.0,machine learning,Skill,0.99
+2088,4163505477.0,deep learning,Skill,0.99
+2089,4163505477.0,text mining,Skill,1.0
+2090,4163505477.0,python,Skill,1.0
+2091,4163505477.0,perl,Skill,1.0
+2092,4163505477.0,java,Skill,1.0
+2093,4163505477.0,c,Skill,1.0
+2094,4163505477.0,c++,Skill,1.0
+3500,4170026582.0,machine learning,Skill,1.0
+3501,4170026582.0,deep learning,Skill,0.99
+3502,4170026582.0,regression,Skill,0.99
+3503,4170026582.0,clustering,Skill,0.76
+3504,4170026582.0,text mining,Skill,1.0
+3505,4170026582.0,neural networks,Skill,0.99
+3506,4170026582.0,random forests,Skill,0.91
+3507,4170026582.0,logistic regression,Skill,0.99
+3508,4170026582.0,svm,Skill,0.83
+3509,4170026582.0,knn,Skill,0.94
+3510,4170026582.0,k-means,Skill,0.96
+3511,4170026582.0,lda,Skill,0.91
+3512,4170026582.0,programming languages,Skill,0.85
+3513,4170026582.0,python,Skill,0.92
+3514,4170026582.0,scala,Skill,0.97
+3515,4170026582.0,analytics,Skill,0.96
+3516,4170026582.0,cassandra,Skill,0.48
+3517,4170026582.0,more than 3 years,DateTime,0.8
+3518,4170026582.0,computer science,Skill,0.98
+3519,4170026582.0,machine learning,Skill,0.99
+3520,4170026582.0,mathematics,Skill,1.0
+3521,4170026582.0,statistics,Skill,0.98
+3522,4170026582.0,agile/,Skill,0.84
+3523,4170026582.0,scrum,Skill,0.61
+3524,4170026582.0,analytical,Skill,0.89
+3525,4170026582.0,content,Skill,0.62
+3526,4170026582.0,business,Skill,0.8
+3527,4170026582.0,programmer,PersonType,0.85
+3528,4170026582.0,learn,Skill,0.65
+3529,4170026582.0,development,Skill,0.93
+3530,4170026582.0,technical,Skill,0.66
+3531,4170026582.0,communication,Skill,0.66
+3532,4170026582.0,entrepreneurial,Skill,0.97
+3533,4170026582.0,responsibility,Skill,0.75
+3534,4170026582.0,data scientist,PersonType,0.73
+3535,4170026582.0,banking,Skill,0.9
+3536,4170026582.0,research,Skill,0.96
+3537,4170026582.0,strategic,Skill,0.89
+3538,4170026582.0,operational,Skill,0.97
+8436,4101129848.0,business,Skill,0.83
+8437,4101129848.0,data science,Skill,0.97
+8438,4101129848.0,quantitative models,Skill,0.79
+8439,4101129848.0,consumer,PersonType,0.6
+8440,4101129848.0,choice,Skill,0.65
+8441,4101129848.0,engagement,Skill,0.6
+8442,4101129848.0,marketing,Skill,0.96
+8443,4101129848.0,performance metrics,Skill,0.98
+8444,4101129848.0,experiments,Skill,0.78
+8445,4101129848.0,algorithms,Skill,0.98
+8446,4101129848.0,mentor,Skill,0.65
+8447,4101129848.0,mentor,PersonType,0.64
+8448,4101129848.0,junior data scientists,PersonType,0.75
+8449,4101129848.0,technical,Skill,0.84
+8450,4101129848.0,data science,Skill,0.97
+8451,4101129848.0,problems.work,Organization,0.9
+8452,4101129848.0,engineers,PersonType,0.99
+8453,4101129848.0,product managers,PersonType,0.95
+8454,4101129848.0,business,Skill,0.84
+8455,4101129848.0,data scientists,PersonType,0.95
+8456,4101129848.0,business,Skill,0.81
+8457,4101129848.0,business leaders,PersonType,0.8
+8458,4101129848.0,visionary ceos,PersonType,0.83
+8459,4101129848.0,client,PersonType,0.7
+8460,4101129848.0,8 years,DateTime,0.8
+8461,4101129848.0,4 years,DateTime,0.8
+8462,4101129848.0,data science,Skill,0.99
+8463,4101129848.0,machine learning,Skill,1.0
+8464,4101129848.0,statistical modeling,Skill,1.0
+8465,4101129848.0,math,Skill,0.97
+8466,4101129848.0,statistics,Skill,0.99
+8467,4101129848.0,computer science,Skill,0.99
+8468,4101129848.0,operations research,Skill,1.0
+8469,4101129848.0,computational social science,Skill,0.84
+8470,4101129848.0,technical,Skill,0.55
+8471,4101129848.0,data science,Skill,0.98
+8472,4101129848.0,prototype,Skill,0.94
+8473,4101129848.0,algorithms,Skill,0.61
+8474,4101129848.0,real data,Skill,0.58
+8475,4101129848.0,communication,Skill,0.98
+8476,4101129848.0,articulate,Skill,0.96
+8477,4101129848.0,communicate,Skill,0.95
+8478,4101129848.0,senior management,PersonType,0.64
+8479,4101129848.0,team,PersonType,0.79
+8480,4101129848.0,player,PersonType,0.49
+8481,4101129848.0,collaborator,PersonType,0.99
+8482,4101129848.0,project management,Skill,0.89
+8483,4101129848.0,execution,Skill,0.39
+8484,4101129848.0,programming,Skill,0.96
+8485,4101129848.0,data science,Skill,0.95
+8486,4101129848.0,languages,Skill,0.75
+8487,4101129848.0,python,Skill,0.99
+8488,4101129848.0,r,Skill,0.98
+8489,4101129848.0,scala.,Skill,0.8
+8490,4101129848.0,recommendation systems,Skill,0.96
+8491,4101129848.0,nlp,Skill,0.98
+8492,4101129848.0,numpy,Skill,0.58
+8493,4101129848.0,pandas,Skill,0.54
+8494,4101129848.0,ml,Quantity,0.8
+8495,4101129848.0,deep learning,Skill,0.86
+8496,4101129848.0,cntk,Organization,0.5
+8497,4101129848.0,mxnet,Organization,0.44
+8498,4101129848.0,data sets,Skill,0.58
+8499,4101129848.0,big data technologies,Skill,0.95
+8500,4101129848.0,hadoop,Organization,0.4
+8501,4101129848.0,maps data,Skill,0.63
+8502,4101129848.0,scrum framework,Skill,1.0
+10122,4147274432.0,data sciences,Skill,0.98
+10123,4147274432.0,analytics,Skill,0.97
+10124,4147274432.0,professionals,PersonType,0.52
+10125,4147274432.0,pharmaceutical development,Skill,0.94
+10126,4147274432.0,manufacturing,Skill,0.86
+10127,4147274432.0,science,Skill,0.9
+10128,4147274432.0,operations.work,Organization,0.9
+10129,4147274432.0,management,Skill,0.41
+10130,4147274432.0,data model,Skill,0.93
+10131,4147274432.0,chemistry,Skill,0.75
+10132,4147274432.0,manufacturing,Skill,0.87
+10133,4147274432.0,pharmaceutical process,Skill,0.84
+10134,4147274432.0,analytical development,Skill,0.94
+10135,4147274432.0,quality control,Skill,0.96
+10136,4147274432.0,business process,Skill,0.9
+10137,4147274432.0,business process,PersonType,0.55
+10138,4147274432.0,owners,PersonType,0.41
+10139,4147274432.0,data stewards,PersonType,0.91
+10140,4147274432.0,data management,Skill,0.7
+10141,4147274432.0,governance,Skill,0.73
+10142,4147274432.0,data sciences,Skill,0.99
+10143,4147274432.0,knowledge management,Skill,0.85
+10144,4147274432.0,predictive analytics,Skill,1.0
+10145,4147274432.0,scientific,Skill,0.97
+10146,4147274432.0,operational datasets,Skill,0.83
+10147,4147274432.0,senior,Skill,0.66
+10148,4147274432.0,data sciences,Skill,0.72
+10149,4147274432.0,framework,Skill,0.52
+10150,4147274432.0,pdm,Organization,0.73
+10151,4147274432.0,data sciences,Skill,0.59
+10152,4147274432.0,knowledge management,Skill,0.91
+10153,4147274432.0,data governance,Skill,0.89
+10154,4147274432.0,data sets,Skill,0.84
+10155,4147274432.0,data cataloguing,Skill,0.96
+10156,4147274432.0,storage,Skill,0.81
+10157,4147274432.0,compute,Skill,0.89
+10158,4147274432.0,processing,Skill,0.98
+10159,4147274432.0,analysis,Skill,0.99
+10160,4147274432.0,search,Skill,0.55
+10161,4147274432.0,business intelligence,Skill,0.8
+10162,4147274432.0,visualizations,Skill,0.95
+10163,4147274432.0,reporting,Skill,0.98
+10164,4147274432.0,dashboards,Skill,0.99
+10165,4147274432.0,data sciences,Skill,0.94
+10166,4147274432.0,assessments,Skill,0.86
+10167,4147274432.0,value,Skill,0.57
+10168,4147274432.0,business,Skill,0.53
+10169,4147274432.0,technology,Skill,0.89
+10170,4147274432.0,analytics,Skill,0.75
+10171,4147274432.0,web,Skill,0.68
+10172,4147274432.0,data visualization,Skill,0.86
+10173,4147274432.0,tableau,Product,0.51
+10174,4147274432.0,spotfire,Product,0.52
+10175,4147274432.0,reports,Skill,0.96
+10176,4147274432.0,dashboards,Skill,1.0
+10177,4147274432.0,monitoring,Skill,1.0
+10178,4147274432.0,pdm,Organization,0.75
+10179,4147274432.0,analytical operations,Skill,0.99
+10180,4147274432.0,clinical supply chain management,Skill,0.95
+10181,4147274432.0,chemical development,Skill,0.99
+10182,4147274432.0,pharmaceutical quality assurance,Skill,0.79
+10183,4147274432.0,data,Skill,0.9
+10184,4147274432.0,iterating,Skill,0.98
+10185,4147274432.0,collaboration,Skill,0.88
+10186,4147274432.0,data consumers,PersonType,0.61
+10187,4147274432.0,performance,Skill,0.75
+10188,4147274432.0,change management,Skill,0.81
+10189,4147274432.0,business,Skill,0.66
+10190,4147274432.0,vendor,PersonType,0.58
+10191,4147274432.0,data analysis,Skill,0.78
+10192,4147274432.0,data structures,Skill,0.81
+10193,4147274432.0,visualizations,Skill,0.9
+10194,4147274432.0,business processes,Skill,0.58
+10195,4147274432.0,data sciences,Skill,0.87
+10196,4147274432.0,methodology,Skill,0.57
+10197,4147274432.0,technologies,Skill,0.84
+10198,4147274432.0,communications,Skill,0.91
+10199,4147274432.0,change management,Skill,0.91
+10200,4147274432.0,management.be,Organization,0.9
+10201,4147274432.0,analytical methods,Skill,0.95
+10202,4147274432.0,business,Skill,0.87
+10203,4147274432.0,data,Skill,0.82
+10204,4147274432.0,algorithms,Skill,0.91
+10205,4147274432.0,optimization techniques,Skill,0.81
+10206,4147274432.0,security,Skill,0.9
+10207,4147274432.0,access,Skill,0.5
+10208,4147274432.0,data,Skill,0.95
+10209,4147274432.0,big data,Skill,0.83
+10210,4147274432.0,cloud,Skill,0.94
+10211,4147274432.0,analytics,Skill,0.98
+10212,4147274432.0,visualization technologies,Skill,0.75
+10213,4147274432.0,big data,Skill,0.99
+10214,4147274432.0,cloud,Skill,0.97
+10215,4147274432.0,data streaming,Skill,0.99
+10216,4147274432.0,real-time analytics,Skill,1.0
+10217,4147274432.0,automation,Skill,1.0
+10218,4147274432.0,artificial intelligence,Skill,0.83
+10219,4147274432.0,machine learning,Skill,0.99
+10220,4147274432.0,interactive visualization,Skill,0.99
+10221,4147274432.0,batch processing,Skill,0.96
+10222,4147274432.0,implementation,Skill,0.96
+10223,4147274432.0,development,Skill,0.96
+10224,4147274432.0,management,Skill,0.96
+10225,4147274432.0,business information systems,Skill,0.67
+10226,4147274432.0,strategy,Skill,0.94
+10227,4147274432.0,business,Skill,0.66
+10228,4147274432.0,consultant,PersonType,0.99
+10229,4147274432.0,business,Skill,0.9
+10230,4147274432.0,schedule,Skill,0.79
+10231,4147274432.0,business systems,Skill,0.98
+10232,4147274432.0,manages,Skill,0.96
+10233,4147274432.0,senior management,PersonType,0.69
+10234,4147274432.0,management,Skill,0.34
+10235,4147274432.0,project lead,PersonType,0.8
+10236,4147274432.0,development,Skill,0.62
+10237,4147274432.0,systems strategy,Skill,0.92
+10238,4147274432.0,technical spokesperson,PersonType,0.74
+10239,4147274432.0,business,Skill,0.84
+10240,4147274432.0,may,DateTime,0.8
+10241,4147274432.0,budget,Skill,0.76
+10242,4147274432.0,manages,Skill,0.99
+10243,4147274432.0,professional,Skill,0.54
+10244,4147274432.0,team members,PersonType,0.75
+10245,4147274432.0,performance,Skill,0.74
+10246,4147274432.0,subordinates,PersonType,0.92
+10247,4147274432.0,organizational goals,Skill,0.88
+10248,4147274432.0,company policy,Skill,0.72
+10249,4147274432.0,procedures,Skill,0.6
+10250,4147274432.0,organizational policies,Skill,0.97
+10251,4147274432.0,degree,Quantity,0.8
+10252,4147274432.0,eight,Quantity,0.8
+10253,4147274432.0,8,Quantity,0.8
+10254,4147274432.0,degree,Quantity,0.8
+10255,4147274432.0,six,Quantity,0.8
+10256,4147274432.0,6,Quantity,0.8
+10257,4147274432.0,two,Quantity,0.8
+10258,4147274432.0,2,Quantity,0.8
+10259,4147274432.0,science,Skill,0.93
+10260,4147274432.0,computer,Skill,0.9
+10261,4147274432.0,computer,Product,0.73
+10262,4147274432.0,manage,Skill,0.97
+10263,4147274432.0,develop,Skill,0.94
+10264,4147274432.0,technology,Skill,0.86
+10265,4147274432.0,develop,Skill,0.5
+10266,4147274432.0,manage,Skill,0.97
+10267,4147274432.0,degree,Quantity,0.8
+10268,4147274432.0,creativity,Skill,0.97
+10269,4147274432.0,innovation,Skill,0.96
+10270,4147274432.0,analyze,Skill,1.0
+10271,4147274432.0,manage,Skill,0.98
+10272,4147274432.0,data sets,Skill,0.93
+10273,4147274432.0,strategies,Skill,0.99
+10274,4147274432.0,visualizing,Skill,0.99
+10275,4147274432.0,communicating,Skill,1.0
+10276,4147274432.0,business,Skill,0.91
+10277,4147274432.0,strategic decisions,Skill,0.67
+10278,4147274432.0,querying,Skill,1.0
+10279,4147274432.0,programming languages,Skill,0.96
+10280,4147274432.0,r,Skill,1.0
+10281,4147274432.0,python,Skill,1.0
+10282,4147274432.0,java,Skill,1.0
+10283,4147274432.0,c++,Skill,1.0
+10284,4147274432.0,python,Skill,0.99
+10285,4147274432.0,cgmp,Organization,0.6
+10286,4147274432.0,computer validation,Skill,0.99
+10287,4147274432.0,pharmaceutical,Skill,0.61
+10288,4147274432.0,compliance,Skill,0.75
+10289,4147274432.0,data integrity,Skill,0.99
+10290,4147274432.0,quality analytics,Skill,0.99
+10291,4147274432.0,21,Quantity,0.8
+10292,4147274432.0,11,Quantity,0.8
+10293,4147274432.0,11,Quantity,0.8
+10294,4147274432.0,21,Quantity,0.8
+10295,4147274432.0,58,Quantity,0.8
+10296,4147274432.0,210,Quantity,0.8
+10297,4147274432.0,211,Quantity,0.8
+13377,4141919159.0,advanced analytics group,Organization,0.94
+13378,4141919159.0,aag,Organization,0.86
+13379,4141919159.0,experts,PersonType,0.89
+13380,4141919159.0,data science,Skill,1.0
+13381,4141919159.0,engineering,Skill,1.0
+13382,4141919159.0,marketing science,Skill,1.0
+13383,4141919159.0,operations research,Skill,1.0
+13384,4141919159.0,primary market research,Skill,0.85
+13385,4141919159.0,advanced analytics specialist,PersonType,0.56
+13386,4141919159.0,bains consulting,Organization,0.78
+13387,4141919159.0,clients,PersonType,0.9
+13388,4141919159.0,candidate,PersonType,0.84
+13389,4141919159.0,research,Skill,0.82
+13390,4141919159.0,training,Skill,0.95
+13391,4141919159.0,consulting staff,Skill,0.64
+13392,4141919159.0,consulting staff,PersonType,0.63
+13393,4141919159.0,communicate,Skill,0.99
+13394,4141919159.0,analytics,Skill,0.95
+13395,4141919159.0,experts,PersonType,0.55
+13396,4141919159.0,business,Skill,0.93
+13397,4141919159.0,leaders,PersonType,0.53
+13398,4141919159.0,bain,Organization,0.59
+13399,4141919159.0,data,Skill,0.62
+13400,4141919159.0,bain,Organization,0.54
+13401,4141919159.0,clients,PersonType,0.8
+13402,4141919159.0,data,Skill,0.95
+13403,4141919159.0,analytics,Skill,0.92
+13404,4141919159.0,data engineering,Skill,0.98
+13405,4141919159.0,analytics,Skill,0.99
+13406,4141919159.0,visualization applications,Skill,0.95
+13407,4141919159.0,data science,Skill,0.94
+13408,4141919159.0,clients,PersonType,0.86
+13409,4141919159.0,case,Skill,0.83
+13410,4141919159.0,client demands,Skill,0.61
+13411,4141919159.0,client,PersonType,0.76
+13412,4141919159.0,data science,Skill,0.98
+13413,4141919159.0,client,PersonType,0.96
+13414,4141919159.0,develop solutions,Skill,0.85
+13415,4141919159.0,critical insights,Skill,0.98
+13416,4141919159.0,customers,PersonType,0.88
+13417,4141919159.0,segmenting markets,Skill,0.77
+13418,4141919159.0,product design,Skill,0.99
+13419,4141919159.0,marketing optimization,Skill,0.93
+13420,4141919159.0,demand forecasting,Skill,0.61
+13421,4141919159.0,price analyses,Skill,0.8
+13422,4141919159.0,fraud detection,Skill,0.97
+13423,4141919159.0,develop,Skill,0.99
+13424,4141919159.0,prototype,Skill,1.0
+13425,4141919159.0,machine learning,Skill,0.8
+13426,4141919159.0,algorithms,Skill,0.59
+13427,4141919159.0,data sets,Skill,0.95
+13428,4141919159.0,machine learning,Skill,0.99
+13429,4141919159.0,statistical techniques,Skill,0.88
+13430,4141919159.0,regression models,Skill,1.0
+13431,4141919159.0,decision trees,Skill,0.99
+13432,4141919159.0,random forests,Skill,0.94
+13433,4141919159.0,gradient boosting,Skill,0.99
+13434,4141919159.0,support vector machines,Skill,0.97
+13435,4141919159.0,clustering,Skill,0.98
+13436,4141919159.0,models,Skill,0.7
+13437,4141919159.0,sources,Skill,0.52
+13438,4141919159.0,data,Skill,0.83
+13439,4141919159.0,data wrangling,Skill,0.98
+13440,4141919159.0,infrastructure,Skill,0.75
+13441,4141919159.0,cloud computing,Skill,0.81
+13442,4141919159.0,database,Skill,0.51
+13443,4141919159.0,statistical methodologies,Skill,1.0
+13444,4141919159.0,machine learning,Skill,1.0
+13445,4141919159.0,data wrangling,Skill,1.0
+13446,4141919159.0,train,Skill,0.75
+13447,4141919159.0,members,PersonType,0.41
+13448,4141919159.0,support,Skill,0.6
+13449,4141919159.0,data analytics,Skill,0.71
+13450,4141919159.0,machine learning,Skill,0.83
+13451,4141919159.0,5,Quantity,0.8
+13452,4141919159.0,data science,Skill,0.96
+13453,4141919159.0,statistical analysis,Skill,0.98
+13454,4141919159.0,business,Skill,0.96
+13455,4141919159.0,marketing science,Skill,0.98
+13456,4141919159.0,social science,Skill,0.98
+13457,4141919159.0,degree,Quantity,0.8
+13458,4141919159.0,computer science,Skill,0.99
+13459,4141919159.0,artificial intelligence,Skill,0.96
+13460,4141919159.0,applied mathematics,Skill,0.98
+13461,4141919159.0,econometrics,Skill,1.0
+13462,4141919159.0,statistics,Skill,0.99
+13463,4141919159.0,physics,Skill,0.96
+13464,4141919159.0,mathematics,Skill,0.95
+13465,4141919159.0,data wrangling,Skill,0.98
+13466,4141919159.0,visualization,Skill,0.99
+13467,4141919159.0,modeling,Skill,0.95
+13468,4141919159.0,r,Skill,0.88
+13469,4141919159.0,python,Skill,0.9
+13470,4141919159.0,vba,Skill,0.98
+13471,4141919159.0,javascript,Skill,1.0
+13472,4141919159.0,alteryx,Skill,0.86
+13473,4141919159.0,predictive modeling,Skill,1.0
+13474,4141919159.0,churn analysis,Skill,0.99
+13475,4141919159.0,time series forecasting,Skill,0.99
+13476,4141919159.0,computer vision,Skill,1.0
+13477,4141919159.0,text mining,Skill,1.0
+13478,4141919159.0,recommender systems,Skill,0.87
+13479,4141919159.0,market basket analysis,Skill,0.99
+13480,4141919159.0,segmentation,Skill,1.0
+13481,4141919159.0,graph analytics,Skill,1.0
+13482,4141919159.0,natural language processing,Skill,0.99
+13483,4141919159.0,text analytics,Skill,0.63
+13484,4141919159.0,dashboard,Skill,0.86
+13485,4141919159.0,reporting,Skill,0.55
+13486,4141919159.0,software development,Skill,0.61
+13487,4141919159.0,interpersonal,Skill,0.99
+13488,4141919159.0,communication,Skill,0.98
+13489,4141919159.0,mathematical,Skill,0.98
+13490,4141919159.0,machine learning,Skill,0.97
+13491,4141919159.0,business,Skill,0.95
+14293,4182008825.0,data,Skill,0.67
+14294,4182008825.0,impact,Skill,0.53
+14295,4182008825.0,clients,PersonType,0.95
+18930,4121953071.0,predictive models,Skill,0.64
+18931,4121953071.0,customers,PersonType,0.84
+18932,4121953071.0,analysing data,Skill,0.71
+18933,4121953071.0,quality,Skill,0.6
+18934,4121953071.0,collaborating,Skill,0.61
+18935,4121953071.0,engineers,PersonType,0.98
+18936,4121953071.0,ml,Quantity,0.8
+18937,4121953071.0,production systems,Skill,0.79
+18938,4121953071.0,collaborating,Skill,0.89
+18939,4121953071.0,product managers,PersonType,0.9
+18940,4121953071.0,stakeholders,PersonType,0.78
+18941,4121953071.0,educational,Skill,0.57
+18942,4121953071.0,m.sc,Organization,0.9
+18943,4121953071.0,computer science,Skill,0.99
+18944,4121953071.0,mathematics,Skill,0.98
+18945,4121953071.0,statistics,Skill,0.98
+18946,4121953071.0,field.at,Organization,0.9
+18947,4121953071.0,3 years,DateTime,0.8
+18948,4121953071.0,ml,Quantity,0.8
+18949,4121953071.0,-learn,Organization,0.5
+18950,4121953071.0,machine,Skill,0.67
+18951,4121953071.0,customer behavior analysis,Skill,0.88
+18952,4121953071.0,data pipelines,Skill,0.72
+18953,4121953071.0,data science,Skill,0.85
+18954,4121953071.0,data,Skill,0.58
+18955,4121953071.0,customer data,Skill,0.89
+18956,4121953071.0,order data,Skill,0.75
+18957,4121953071.0,customer care data,Skill,0.73
+18958,4121953071.0,100,Quantity,0.8
+18959,4121953071.0,data scientists,PersonType,0.94
+18960,4121953071.0,zalando,Organization,0.75
+18961,4121953071.0,collaborate,Skill,0.97
+18962,4121953071.0,agile development,Skill,0.87
+18963,4121953071.0,open source,Skill,0.74
+18964,4121953071.0,nights,DateTime,0.8
+18965,4121953071.0,70,Quantity,0.8
+18966,4121953071.0,employee,PersonType,0.81
+18967,4121953071.0,40%,Quantity,0.8
+18968,4121953071.0,offices,Location,0.7
+18969,4121953071.0,beverages,Product,0.83
+18970,4121953071.0,fruits,Product,0.81
+18971,4121953071.0,onboarding,Skill,0.87
+18972,4121953071.0,mentoring,Skill,0.96
+18973,4121953071.0,personal development,Skill,0.75
+18974,4121953071.0,experts,PersonType,0.85
+22679,4209136866.0,2,Quantity,0.8
+22680,4209136866.0,analyzing,Skill,1.0
+22681,4209136866.0,data,Skill,0.71
+22682,4209136866.0,web,Skill,0.97
+22683,4209136866.0,cloud applications,Skill,0.94
+22684,4209136866.0,2,Quantity,0.8
+22685,4209136866.0,data modeling,Skill,1.0
+22686,4209136866.0,data design,Skill,1.0
+22687,4209136866.0,persistence,Skill,0.99
+22688,4209136866.0,warehousing,Skill,1.0
+22689,4209136866.0,data marts,Skill,1.0
+22690,4209136866.0,data lakes,Skill,1.0
+22691,4209136866.0,data,Skill,0.53
+22692,4209136866.0,hadoop,Organization,0.65
+22693,4209136866.0,spark,Organization,0.53
+22694,4209136866.0,hive,Organization,0.47
+22695,4209136866.0,nifi,Skill,0.95
+22696,4209136866.0,docker,PersonType,0.63
+22697,4209136866.0,data modeling,Skill,1.0
+22698,4209136866.0,2 years,DateTime,0.8
