@@ -1,0 +1,4548 @@
+index,skill,count,keep
+2414,machine learning,479,y
+1086,data,404,
+3982,statistics,364,y
+515,business,359,
+3347,python,352,y
+860,computer science,350,y
+1224,data science,313,
+138,algorithms,228,y
+2528,mathematics,224,y
+1663,engineering,221,y
+811,communication,204,y
+221,analytics,192,y
+3414,r,180,y
+3534,research,167,y
+1431,design,140,y
+156,analysis,129,y
+1468,development,128,y
+3275,programming,128,y
+1173,data mining,128,y
+2260,java,127,y
+1380,deep learning,121,y
+169,analytical,120,y
+806,communicate,115,y
+1666,english,114,y
+3931,statistical,104,y
+3023,physics,102,y
+4221,technology,97,
+1459,developing,96,y
+1239,data sets,96,y
+4141,technical,95,
+778,collaborate,94,y
+1455,develop,91,y
+4071,support,90,
+424,big data,86,y
+1093,data analysis,81,y
+4220,technologies,80,
+1612,economics,78,y
+1270,data visualization,75,y
+2165,insights,75,y
+3632,scala,73,y
+1346,datasets,73,y
+3226,production,70,
+2487,marketing,69,y
+2750,natural language processing,68,y
+235,analyze,67,y
+2334,leadership,66,y
+4322,training,64,y
+2342,learning,63,y
+592,c++,61,y
+3841,software development,60,y
+2899,optimization,60,y
+3278,programming languages,60,y
+2890,operations research,59,y
+745,clustering,59,y
+2076,implement,59,
+3165,problem solving,57,y
+2455,management,56,y
+2674,modeling,55,y
+3484,regression,54,y
+781,collaboration,53,y
+270,applied mathematics,53,y
+2079,implementation,52,
+2512,mathematical,51,y
+2510,math,51,y
+4530,writing,51,y
+4258,testing,50,
+3113,presentation,49,y
+3934,statistical analysis,48,y
+1099,data analytics,48,y
+2322,languages,47,y
+3101,predictive modeling,47,y
+4469,visualization,46,y
+2690,models,46,y
+3842,software engineering,46,y
+298,artificial intelligence,46,y
+4532,written,45,y
+2219,interpersonal,45,y
+3169,problem-solving,45,y
+108,ai,44,y
+1446,designing,44,y
+2083,implementing,44,
+3522,reporting,44,y
+3836,software,43,
+1198,data processing,43,y
+1243,data sources,43,
+2592,methodologies,43,y
+3192,product,43,
+2285,keras,42,y
+1783,finance,42,y
+2613,ml,42,y
+2333,lead,42,y
+3665,science,42,y
+1336,databases,41,y
+3700,scripting,40,y
+783,collaborative,40,y
+2780,neural networks,39,y
+2582,mentor,39,y
+751,code,39,
+1287,data-driven,38,
+4237,tensorflow,38,y
+1421,deploying,38,
+1085,dashboards,38,y
+2448,manage,38,y
+3529,reports,37,y
+3631,sas,37,y
+763,coding,37,y
+979,creative,36,y
+3104,predictive models,36,y
+2583,mentoring,35,y
+810,communicating,35,y
+2683,modelling,34,y
+2978,performance,34,
+261,applications,33,
+4006,strategic,33,
+1132,data engineering,33,y
+2788,nlp,33,y
+2152,innovation,33,y
+3359,pytorch,32,y
+153,analyses,32,y
+3965,statistical models,31,y
+1826,forecasting,31,y
+2156,innovative,31,y
+322,attention to detail,31,y
+1419,deploy,30,y
+3116,presentations,30,y
+4519,work independently,30,y
+3202,product development,29,y
+3723,segmentation,29,y
+3506,relational databases,29,y
+4102,systems,29,
+209,analytical skills,28,y
+1114,data collection,28,y
+2070,impact,28,
+4268,text mining,28,y
+240,analyzing,28,y
+2810,numpy,28,y
+912,consulting,27,
+3186,processing,27,y
+2350,libraries,27,y
+1840,frameworks,27,y
+1178,data modeling,27,y
+3962,statistical modeling,27,y
+721,cloud,26,y
+4241,test,26,
+545,business intelligence,26,y
+511,building,26,
+356,automation,26,y
+4025,strategy,26,
+1166,data management,25,y
+1254,data structures,25,y
+2910,optimize,25,y
+2636,model,25,y
+3277,programming language,25,y
+2461,managing,25,y
+1608,econometrics,24,y
+867,computer vision,24,y
+1561,documentation,24,y
+3090,predictive analytics,24,y
+3742,self-motivated,24,y
+275,applied statistics,24,y
+3668,scientific,24,
+2704,monitoring,23,
+587,c,23,y
+2700,monitor,23,
+3117,presenting,23,y
+3252,professional,23,
+4414,validation,23,
+3374,quantitative,23,
+2531,matlab,23,y
+1615,education,23,
+1182,data models,22,y
+1214,data quality,22,
+1396,deliver,22,
+148,analyse,22,y
+1186,data pipelines,22,y
+3289,project management,22,y
+3621,sales,22,y
+1400,delivery,22,
+3153,probability,22,y
+3805,simulation,22,y
+1424,deployment,21,y
+728,cloud computing,21,y
+1362,decision making,21,y
+1372,decision trees,21,y
+3327,prototyping,21,y
+2882,operational research,21,y
+2339,learn,21,y
+3036,planning,21,y
+1745,experiments,20,
+2398,logistic regression,20,y
+1004,critical thinking,20,y
+1316,database,20,y
+1545,distributions,20,y
+589,c#,20,y
+1806,financial services,20,y
+3784,services,19,
+788,collaboratively,19,y
+4023,strategies,19,
+988,creativity,19,y
+125,algorithm,19,y
+4088,svm,19,y
+1268,data visualisation,19,y
+567,business processes,19,y
+443,big data technologies,19,y
+1277,data warehousing,19,y
+335,automate,18,
+3885,spark,18,y
+2886,operations,18,
+2336,leading,18,y
+3720,security,18,
+3960,statistical methods,18,y
+3964,statistical modelling,18,y
+2857,open source,17,y
+293,articulate,17,y
+2593,methodology,17,
+4114,tableau,17,y
+3977,statistical testing,17,y
+1734,experiment,17,
+1740,experimentation,17,
+85,agile,17,y
+1785,financial,17,y
+780,collaborating,16,y
+544,business insights,16,y
+1845,french,16,y
+39,acquisition,16,
+2952,pandas,16,y
+3185,processes,16,
+2421,machine learning models,16,y
+2997,perl,16,y
+830,compliance,16,
+1905,german,16,y
+505,build,16,
+516,business acumen,15,y
+269,applied math,15,y
+2116,influence,15,
+1059,customer segmentation,15,y
+1737,experimental design,15,y
+750,coaching,15,y
+1135,data exploration,15,y
+2183,integration,15,
+4291,time series analysis,14,y
+3246,productivity,14,y
+3747,self-starter,14,y
+2936,organize,14,y
+68,advanced analytics,14,y
+813,communications,14,y
+1526,distributed computing,14,y
+3499,reinforcement learning,14,y
+2056,image processing,14,y
+286,architecture,14,y
+855,computer engineering,14,y
+3376,quantitative analysis,14,y
+2649,model development,14,y
+4438,version control,14,y
+1755,exploratory data analysis,14,y
+131,algorithmic,13,
+2595,methods,13,
+4396,user experience,13,y
+1728,excel,13,y
+2926,organizational,13,
+1667,english language,13,y
+2262,javascript,13,y
+1706,etl,13,y
+43,actionable insights,13,y
+1025,customer,13,
+3543,researching,13,y
+4461,visualisation,13,y
+2660,model performance,13,y
+3476,reduction,13,
+1716,evaluation,13,
+2441,maintaining,13,
+2584,mentorship,13,y
+1168,data manipulation,13,y
+1155,data integration,12,y
+3324,prototype,12,y
+1993,healthcare,12,y
+2131,information retrieval,12,y
+455,bioinformatics,12,y
+1596,e-commerce,12,y
+2240,investment,12,
+212,analytical techniques,12,y
+217,analytical tools,12,y
+2415,machine learning algorithms,12,y
+3976,statistical techniques,12,y
+2149,innovate,12,y
+2871,operational,12,y
+524,business analytics,12,y
+3520,report,12,y
+683,cleansing,12,y
+1554,document,12,y
+3707,search,12,y
+1281,data wrangling,12,y
+4094,system,12,
+154,analysing,12,y
+3867,solve problems,12,y
+3326,prototypes,12,y
+2221,interpret,12,y
+2470,manipulation,12,y
+4140,teamwork,12,y
+2761,network analysis,12,y
+1472,devops,12,
+3215,product management,12,y
+2317,language,12,y
+4409,validate,12,
+1101,data architecture,12,y
+3978,statistical tests,11,y
+1263,data transformation,11,y
+4332,transfer learning,11,y
+4334,transformation,11,y
+3103,predictive modelling,11,y
+46,active learning,11,y
+1541,distributed systems,11,y
+382,banking,11,y
+4321,train,11,y
+3657,scale,11,
+4518,work ethic,11,y
+2292,knowledge,11,
+4516,work,11,
+3425,random forests,11,y
+3637,scalable,11,y
+3408,querying,11,y
+1042,customer experience,11,y
+3254,professional development,11,y
+4432,verbal,11,y
+873,computing,11,
+3125,pricing,11,y
+3330,psychology,11,y
+2466,manipulate,11,
+2440,maintain,11,
+655,chemistry,11,y
+1373,decision-making,11,y
+1092,data analyses,11,y
+3689,scipy,11,y
+2186,integrity,11,y
+4062,supply chain,11,y
+2444,maintenance,10,
+1511,discovery,10,y
+1357,debugging,10,y
+3556,responsibility,10,
+2279,jupyter notebooks,10,y
+1490,digital marketing,10,y
+1629,electrical engineering,10,y
+3399,queries,10,y
+1358,decision,10,
+3064,powerbi,10,y
+3032,pipelines,10,y
+4472,visualizations,10,y
+191,analytical methods,10,y
+1185,data pipeline,10,y
+2100,industrial,10,
+427,big data analytics,10,y
+3141,prioritize,10,y
+198,analytical models,10,y
+1936,graph analysis,9,y
+2380,linux,9,y
+4288,time management,9,y
+216,analytical thinking,9,y
+3340,publications,9,
+3424,random forest,9,y
+3460,reasoning,9,y
+674,classification,9,y
+90,agile development,9,y
+757,code review,9,y
+3908,spss,9,y
+4282,thought leadership,9,y
+236,analyze data,9,y
+35,accuracy,9,y
+1179,data modelling,9,y
+4066,supply chain optimization,9,y
+479,biostatistics,9,y
+3933,statistical analyses,9,y
+3253,professional accomplishment,9,y
+1026,customer acquisition,9,y
+300,artificial neural networks,9,y
+3171,procedures,9,y
+749,coach,9,y
+4362,troubleshooting,9,y
+1334,database systems,9,y
+4075,support vector machines,9,y
+597,caffe,9,y
+4060,supply,9,
+3086,predictive,9,
+1931,gradient boosting,9,y
+3448,real-time,9,
+1148,data infrastructure,9,y
+4265,text analytics,9,y
+4131,teach,9,y
+2916,oral,9,y
+2741,naive bayes,9,y
+3139,prioritization,9,y
+2392,logic,8,
+2399,logistics,8,y
+769,cognitive,8,y
+1274,data warehouse,8,y
+733,cloud platforms,8,y
+4133,team,8,y
+1812,fintech,8,y
+3240,production systems,8,
+2206,internal,8,
+2432,machine-learning,8,y
+2175,insurance,8,y
+1023,curation,8,y
+2282,k-nn,8,y
+579,business value,8,
+4383,unstructured data,8,y
+73,advertising,8,y
+3614,saas,8,y
+961,coordinating,8,y
+1157,data integrity,8,y
+681,cleaning,8,y
+882,concepts,8,
+3002,personalization,8,
+1089,data accuracy,8,y
+273,applied research,8,y
+1478,digital,8,
+1045,customer insights,8,y
+257,application,8,
+2222,interpret data,8,y
+3737,self-driven,8,y
+1398,delivering,8,
+2044,identify,8,
+127,algorithm development,8,y
+3011,pharmaceutical,8,y
+241,analyzing data,8,y
+2264,jira,8,y
+3966,statistical packages,8,y
+2374,linear regression,8,y
+1548,dl,8,
+3575,review,8,
+3402,query languages,8,y
+1112,data cleansing,8,y
+2841,onboarding,8,
+2160,insight,8,y
+4528,wrangling,8,y
+2522,mathematical models,8,y
+2530,maths,8,y
+3078,prediction,8,
+2885,operationalize,8,
+31,accountability,8,y
+2369,linear algebra,8,y
+2819,object-oriented design,8,y
+4202,technical skills,8,y
+3927,stata,7,
+2939,organizing,7,
+737,cloud technologies,7,y
+1244,data sourcing,7,
+1753,exploratory analysis,7,y
+2779,neural network,7,y
+126,algorithm design,7,y
+4263,text,7,
+1853,functions,7,
+719,clinical trials,7,
+1860,gaming,7,
+1017,cs,7,y
+1257,data systems,7,y
+1842,fraud detection,7,y
+2326,large-scale,7,y
+3250,products,7,
+960,coordinate,7,y
+4005,storytelling,7,y
+2029,hypothesis testing,7,y
+941,continuous integration,7,y
+4485,web,7,
+2760,network,7,y
+2933,organizational skills,7,y
+3339,publication,7,
+2393,logical,7,y
+1955,graphs,7,y
+812,communication skills,7,y
+1714,evaluate,7,
+2368,linear,7,
+758,code reviews,7,y
+1928,gpu programming,7,y
+760,code versioning,7,y
+3768,sentiment analysis,7,y
+533,business development,7,y
+1698,epidemiology,7,y
+1922,golang,7,y
+3801,signal processing,7,y
+4083,surveys,7,
+4311,toolkits,7,y
+3423,random,7,
+2250,iterate,7,
+3486,regression analysis,7,y
+4387,usage,7,
+532,business decisions,7,y
+247,anomaly detection,7,y
+461,biology,7,y
+210,analytical solutions,7,y
+3311,properties,7,
+1090,data acquisition,7,y
+3564,retail,7,y
+1241,data solutions,7,y
+2121,informatics,7,y
+2611,mining,7,y
+2117,influencing,7,
+572,business solutions,6,y
+2281,k-means,6,y
+573,business strategies,6,y
+629,causal inference,6,y
+1193,data preparation,6,
+3482,registries,6,
+1240,data simulation,6,y
+521,business analysis,6,y
+619,carlo,6,y
+4182,technical leadership,6,y
+1230,data science research,6,y
+4142,technical abilities,6,y
+3180,process improvement,6,y
+1838,framework,6,
+558,business performance,6,
+3447,real world data,6,y
+2263,jenkins,6,y
+2136,information systems,6,y
+3826,social,6,y
+2103,industrial engineering,6,y
+3400,query,6,y
+901,constraint programming,6,y
+1442,design thinking,6,y
+900,constrained optimization,6,y
+2088,improvement,6,
+3569,retention,6,
+3730,selection,6,
+2096,independent,6,y
+4118,tactical,6,y
+841,computational linguistics,6,y
+2641,model building,6,y
+2621,ml models,6,y
+2115,inferential statistics,6,y
+2616,ml algorithms,6,y
+3552,resources,6,
+1691,entrepreneurship,6,y
+2125,information engineering,6,y
+1370,decision tree learning,6,y
+3589,risk management,6,y
+2057,image recognition,6,y
+3703,scrum,6,y
+3697,scraping,6,y
+2861,open-source,6,y
+1006,crm,6,y
+2854,open data,6,y
+4531,writing code,6,y
+3636,scalability,6,y
+4523,workflows,6,
+989,credibility,6,
+44,activation,6,
+3630,sap data extraction,6,y
+3367,quality,6,
+3942,statistical data analysis,6,y
+3365,qualitative,6,y
+958,cooperation,6,y
+1975,hardware,6,y
+3989,stats,6,y
+938,continuous,6,
+1972,hadoop,6,y
+3031,pipeline,6,y
+4426,vba,6,y
+3464,recommendation systems,6,y
+734,cloud services,6,y
+782,collaborations,6,y
+1272,data visualizations,6,y
+4279,thinking,6,y
+4320,trading,6,y
+1910,git,6,y
+1758,extract,6,
+3111,present,6,
+4287,time,6,
+1906,german language,6,y
+2178,integer programming,6,y
+4385,unstructured data processing,6,y
+2480,market access,6,
+4293,time series forecasting,6,y
+2467,manipulate data,6,y
+3511,relationships,6,
+4084,survival analysis,6,y
+2210,international,6,
+4290,time series,6,y
+2137,information technology,6,y
+3895,speaking,6,y
+1337,databricks,6,y
+297,artificial,6,
+837,computational biology,6,y
+3142,prioritizing,6,y
+1260,data technologies,6,y
+816,communicator,6,y
+2559,medical,6,y
+962,coordination,5,
+3950,statistical interpretation,5,y
+1981,health,5,y
+4117,tactfully,5,y
+3975,statistical software,5,y
+2013,human factor impact,5,
+2223,interpretability,5,y
+3951,statistical knowledge,5,y
+991,credit risk,5,y
+3369,quality assurance,5,y
+1865,gcp,5,y
+3953,statistical learning,5,y
+642,challenge,5,
+3381,quantitative data science,5,y
+1139,data flows,5,y
+3946,statistical distributions,5,y
+1979,hci,5,y
+2192,intelligence,5,
+3302,proof of concepts,5,
+1030,customer behavior,5,y
+3352,python programming,5,y
+2254,iterative development,5,y
+4049,study design,5,y
+3901,speech recognition,5,y
+2120,informatica,5,y
+3864,solutions,5,
+814,communicative,5,y
+1104,data assets,5,
+1082,dashboard creation,5,y
+2112,inference,5,y
+2097,independently,5,y
+798,commercial,5,
+2155,innovations,5,y
+1065,customer success,5,y
+2087,improve,5,
+2081,implementations,5,
+3860,solution development,5,y
+902,constraint satisfaction,5,y
+2277,jupyter,5,y
+3443,real estate,5,y
+3335,public health,5,y
+1966,gurobi,5,y
+2179,integrate,5,
+1041,customer engagement,5,y
+2041,ideate,5,y
+744,cluster analysis,5,y
+930,containers,5,y
+3949,statistical inference,5,y
+1437,design patterns,5,y
+4490,web applications,5,y
+4301,time-series,5,y
+423,big,5,
+3108,preparation,5,
+2618,ml frameworks,5,y
+2472,manufacturing,5,y
+3809,simulations,5,
+3735,self-direction,5,y
+3005,persuade,5,y
+3135,principles,5,
+4262,tests,5,
+2423,machine learning software,5,y
+1793,financial institutions,5,y
+493,boosting,5,
+1796,financial markets,5,y
+2981,performance evaluation,5,y
+2699,mongodb,5,y
+1247,data storage,5,
+2970,pattern recognition,5,y
+1447,designs,5,
+2711,motivated,5,y
+2961,particle swarm optimization,5,y
+146,alteryx,5,y
+2944,outcomes research,5,y
+3701,scripting language,5,y
+2938,organized,5,
+4302,time-series analysis,5,y
+274,applied statistical,5,y
+1369,decision tree,5,y
+2511,math models,5,y
+2544,measurement,5,
+3069,practices,5,
+2524,mathematical programming,5,y
+354,automating,5,
+3065,powerpoint,5,y
+4343,transportation,5,y
+3059,postgresql,5,y
+1735,experiment design,5,y
+1715,evaluating,5,
+3049,policy-shaping,5,y
+318,association rules,5,y
+370,availability,5,
+4391,user behavior,5,y
+1322,database management,5,y
+1360,decision forests,5,y
+3763,senior,5,
+393,bayesian methods,5,y
+4381,unix,5,y
+1365,decision quality,5,
+4318,tracking,5,
+1366,decision science,5,y
+4317,torch,5,y
+4389,user,5,
+4314,topic modeling,5,y
+1469,develops,5,
+1723,evidence,5,
+4493,web development,5,y
+94,agile methodologies,5,y
+1197,data processes,5,
+4215,technically inclined,5,y
+621,cassandra,5,y
+2357,life science,5,y
+4524,working,5,
+1570,draw conclusions,5,y
+2803,numerate,5,
+4205,technical specifications,5,y
+1841,fraud,5,
+3654,scalable systems,5,y
+58,ad-hoc analysis,5,y
+1832,forest,5,y
+87,agile business,5,y
+571,business requirements,5,y
+3173,process,5,
+95,agile methodology,5,y
+1194,data presentation,5,y
+1552,docker,5,y
+4204,technical solutions,5,y
+3686,scikit,5,y
+1233,data science technologies,5,y
+74,advise,5,
+2307,kpis,5,
+4494,web industry,5,y
+2925,organization,5,
+2853,open,5,y
+2347,legal,5,
+263,applied,4,
+2813,object detection,4,y
+3371,quality control,4,y
+3970,statistical programming languages,4,y
+1377,deep,4,
+2006,hive,4,y
+3969,statistical programming language,4,y
+2610,mine,4,
+2126,information extraction,4,y
+2608,mindset,4,
+986,creatively,4,y
+1934,graph,4,
+1018,css,4,y
+4378,unit tests,4,
+4521,workflow,4,
+4172,technical expertise,4,
+1345,dataset,4,
+1538,distributed processing,4,y
+2850,ontology,4,y
+2552,media,4,
+21,a/b testing,4,y
+3958,statistical methodologies,4,y
+819,companys,4,
+4529,write,4,
+3417,r&d,4,
+2898,optimise,4,
+26,access,4,
+3653,scalable solutions,4,y
+3900,speech processing,4,y
+3047,policies,4,
+3038,platform,4,
+833,computation,4,
+304,assess,4,
+835,computational,4,
+1087,data access,4,
+248,anomaly detection systems,4,y
+1382,deep learning algorithms,4,y
+2728,multitask,4,y
+2680,modeling techniques,4,y
+4020,strategic thinking,4,y
+1724,evidence generation,4,y
+3710,search engines,4,y
+951,conversion,4,
+2971,patterns,4,y
+2710,motivate,4,y
+1978,hbase,4,y
+1964,guide,4,y
+4463,visualisation tools,4,y
+3393,quantitative research,4,y
+258,application development,4,y
+4473,visualize,4,y
+1046,customer intelligence,4,y
+3391,quantitative models,4,y
+1043,customer experiences,4,y
+3688,scikit-learn,4,y
+931,content,4,
+2753,natural sciences,4,y
+121,airflow,4,y
+3602,root cause analysis,4,y
+3693,scoring,4,
+955,convolutional neural networks,4,y
+188,analytical insights,4,y
+1430,descriptive statistics,4,y
+1948,graph theory,4,y
+1587,dutch,4,y
+3561,results,4,
+2913,optimizing,4,
+3413,quicksight,4,y
+3389,quantitative modeling,4,y
+4412,validating,4,
+861,computer sciences,4,y
+4039,structured,4,
+3734,self-directed,4,y
+1077,"d3,",4,y
+3733,self-development,4,y
+2915,oracle,4,y
+1072,cyber security,4,y
+3731,self,4,
+3001,personal development,4,y
+3362,qlik,4,y
+84,aggregation,4,y
+4436,verify,4,
+3915,stack,4,
+4437,verifying,4,
+2782,neuroscience,4,y
+3295,project work,4,
+3152,probabilities,4,y
+594,c/,4,y
+2231,intuition,4,y
+3260,professional services,4,y
+2373,linear programming,4,y
+4274,theories,4,
+536,business experience,4,
+4280,thought,4,
+3878,source data,4,y
+662,churn prediction,4,y
+2468,manipulating,4,y
+2251,iterating,4,
+3514,reliability,4,
+1176,data model,4,y
+2276,julia,4,y
+3808,simulation models,4,y
+2473,map,4,
+709,clinical development,4,y
+2188,intellectual curiosity,4,y
+656,chinese,4,y
+2475,mapping,4,
+2228,interrogate,4,y
+4152,technical capabilities,4,y
+3228,production data,4,y
+1887,genomics,4,y
+3501,relational,4,
+3831,social network analysis,4,y
+2256,iteratively,4,
+4212,technical writing,4,y
+3170,problems,4,
+3875,source code,4,y
+1228,data science libraries,4,y
+1824,forecast,4,y
+2259,japanese,4,y
+1250,data strategy,4,y
+3440,real,4,
+513,building models,4,y
+1220,data requirements,4,
+2348,lending,4,
+1144,data gathering,4,y
+4151,technical blogs,4,y
+1146,data governance,4,y
+1238,data set,4,
+4240,tensorflows,4,y
+604,calculus,4,y
+638,centric,4,
+1320,database design,4,y
+4227,telecommunication,4,y
+1915,global,4,
+3089,predictive analysis,4,y
+790,collection,4,
+3463,recommendation engines,4,y
+4338,translate,4,
+1736,experimental,4,
+1153,data insights,4,y
+2498,marketing science,4,y
+3164,problem solver,4,y
+1732,experience,4,
+1335,database technologies,4,y
+701,client service,4,
+4352,trees,4,
+700,client relationships,4,y
+1731,exogenous data,4,y
+4171,technical experience,4,y
+4097,system design,4,y
+3787,sets,4,
+3467,recruiting,4,
+3198,product decisions,4,
+4324,trainings,4,
+644,change management,4,y
+541,business impact,4,y
+4226,telecom,4,y
+651,chatbots,4,y
+1308,data-oriented,4,y
+3097,predictive maintenance,4,y
+3803,significance testing,4,y
+4180,technical knowledge,4,y
+1756,explore,4,
+530,business decision making,4,y
+2490,marketing automation,4,y
+1226,data science engineering,3,y
+3868,solving,3,
+3390,quantitative modelling,3,y
+3869,solving problems,3,y
+3690,scipy stack,3,y
+1234,data sciences,3,
+3388,quantitative methods,3,y
+1162,data lakes,3,y
+1817,flexible,3,y
+1471,devise,3,
+1925,government,3,
+1584,due diligence,3,y
+1605,ecommerce,3,y
+3660,scenario analysis,3,y
+3649,scalable models,3,y
+1533,distributed datasets,3,y
+3461,recognition,3,
+1010,cross validation,3,y
+1532,distributed databases,3,y
+1529,distributed data,3,y
+3465,recommender systems,3,y
+1988,health insurance,3,y
+1987,health economics,3,y
+1015,cross-validation,3,y
+3470,recurrent neural networks,3,y
+1206,data profiling,3,y
+3840,software design,3,y
+1210,data protection,3,y
+1827,forecasting models,3,y
+3939,statistical computer languages,3,y
+1581,drug discovery,3,y
+3670,scientific computing,3,y
+3450,real-time analytics,3,y
+1983,health care,3,y
+1875,generate insights,3,y
+3940,statistical concepts,3,
+3616,safety,3,
+1592,dynamic pricing,3,
+1219,data reporting,3,y
+1496,digital technologies,3,y
+3678,scientific method,3,
+3679,scientific methods,3,
+3682,scientific research,3,y
+1487,digital health,3,y
+1616,educational,3,y
+3396,quantitative social science,3,y
+1883,genomic,3,y
+3433,rdbms,3,y
+1764,facilitation,3,
+1769,fccm,3,y
+1088,data accessibility,3,
+1902,geospatial analysis,3,y
+3554,response modeling,3,y
+1901,geospatial,3,y
+3750,semantic,3,
+3879,sources,3,
+3911,sql,3,y
+1774,feature engineering,3,y
+3738,self-education,3,y
+1407,demand forecasting,3,y
+3510,relationship management,3,y
+1940,graph database,3,y
+3410,question answering,3,
+1943,graph databases,3,y
+1126,data discovery,3,y
+1699,erp,3,y
+1298,data-driven strategy,3,y
+3521,report writing,3,y
+1730,execution,3,
+3419,r.,3,y
+1718,evangelize,3,y
+3778,serverless architecture,3,y
+1102,data architectures,3,y
+1331,database skills,3,y
+1919,go,3,y
+1325,database programming,3,y
+1712,etls,3,y
+1742,experimentation design,3,y
+1744,experimenting,3,
+3903,spoken,3,
+1311,data-science,3,
+3793,shell scripting,3,y
+3428,rapidminer,3,y
+1661,engineer,3,
+1414,demonstrations,3,y
+3595,robotic process automation,3,y
+1452,dev,3,
+1636,embeddings,3,y
+1145,data generation,3,y
+3494,regressions,3,y
+3899,speech,3,
+1451,detection,3,
+1963,guidance,3,
+1147,data handling,3,y
+3394,quantitative science,3,y
+3409,querying databases,3,y
+1456,develop processes,3,y
+1627,electrical,3,y
+3874,source,3,
+3593,rl,3,
+1150,data ingestion,3,y
+3441,real data,3,
+1235,data security,3,y
+3583,risk,3,
+3580,revision control,3,y
+1992,health technology,3,y
+1061,customer segmentations,3,y
+1660,engine,3,
+1788,financial data,3,y
+1069,customer view,3,
+1789,financial engineering,3,y
+1791,financial industry,3,y
+1266,data validation,3,y
+1792,financial insights,3,y
+3726,segmentations,3,
+1656,engagement,3,
+3571,revenue,3,
+3572,revenue generation,3,
+3503,relational database,3,y
+3405,query performance,3,y
+1798,financial modeling,3,y
+1436,design experiments,3,y
+3462,recommendation,3,y
+1542,distribution,3,
+1003,critical insights,3,y
+4453,vision,3,
+175,analytical capabilities,3,y
+2302,knowledge sharing,3,
+2305,kotlin,3,y
+626,causal,3,y
+2308,kubernetes,3,y
+617,career,3,
+3193,product analytics,3,y
+2323,large,3,
+3190,procurement,3,
+2328,large-scale data science,3,y
+2689,modelling.,3,y
+599,"caffe2,",3,y
+3183,process pipelines,3,y
+593,c++.,3,y
+4195,technical requirements,3,
+2984,performance metrics,3,y
+186,analytical frameworks,3,y
+584,businesss,3,
+4203,technical solution,3,y
+190,analytical methodologies,3,y
+574,business strategy,3,
+4208,technical strategy,3,
+2355,life,3,
+2356,life insurance,3,y
+2671,model validation,3,y
+4219,technologie-themen,3,
+2670,model training,3,y
+552,business model,3,y
+551,business metrics,3,
+2695,molecular biology,3,y
+639,certification,3,
+2372,linear models,3,y
+643,champion,3,
+2225,interpreting,3,
+2226,interpreting data,3,y
+2935,organizational success,3,y
+4126,targeting,3,
+2236,investigate,3,
+705,clinical,3,y
+120,ai.,3,y
+4132,teaching,3,y
+695,client management,3,y
+2748,natural language,3,y
+4134,team building,3,y
+3229,production deployment,3,y
+4137,team work,3,y
+4139,team-work,3,
+2742,named entity recognition,3,y
+682,cleanse,3,y
+679,clean,3,y
+2740,mysql,3,y
+4145,technical analysis,3,y
+4153,technical challenges,3,y
+4466,visualise,3,y
+149,analyse data,3,y
+2721,multi-,3,
+2720,multi,3,
+2714,motivation,3,y
+2713,motivating,3,
+649,charts,3,y
+645,channel,3,
+164,analysis.,3,
+547,business knowledge,3,
+4228,telecommunications,3,y
+3249,productizing,3,
+262,applications development,3,y
+267,applied data science,3,y
+4310,tooling,3,
+3029,pilot,3,
+2488,marketing analytics,3,y
+400,bayesian statistics,3,y
+397,bayesian networks,3,y
+394,bayesian model,3,y
+392,bayesian inference,3,y
+281,architecting,3,y
+385,bash,3,y
+289,architectures,3,y
+380,bagging,3,y
+4329,transactional data,3,
+4333,transform,3,
+309,asset management,3,y
+2577,meet deadlines,3,
+4340,translation,3,y
+2575,medicine,3,
+4342,transport,3,
+2519,mathematical methodologies,3,y
+2521,mathematical modelling,3,y
+3048,policy,3,
+3055,portuguese,3,y
+4354,trial data,3,
+3077,predicting,3,
+4357,trials,3,
+338,automated anomaly detection,3,y
+4360,troubleshoot,3,y
+330,audit,3,
+264,applied analytics,3,y
+417,bert,3,y
+197,analytical modelling,3,y
+430,big data implementations,3,y
+3162,problem resolution,3,y
+3158,problem,3,
+2385,listening,3,y
+3157,probability theory,3,y
+2995,periscope,3,y
+4235,tensor flow,3,y
+518,business administration,3,
+214,analytical technology,3,y
+502,budget,3,
+4246,test design,3,y
+222,analytics applications,3,y
+2406,lstm,3,y
+3007,persuasive design,3,y
+3009,ph.d,3,
+2642,model creation,3,y
+488,blogs,3,
+4417,value,3,
+238,analyzed,3,y
+2425,machine learning.,3,y
+3017,phd,3,
+471,biomedical informatics,3,y
+3019,photography,3,
+2628,mobile,3,
+3021,physical,3,
+2465,mandarin,3,y
+439,big data stacks,3,y
+436,big data science,3,y
+2620,ml libraries,3,y
+4295,time series modeling,3,y
+2756,negotiate,3,y
+4161,technical design,3,y
+2204,interface,3,y
+2799,nosql,3,y
+3308,propensity modeling,3,y
+66,adtech,3,y
+862,computer security,3,y
+859,computer programming,3,y
+2804,numerical,3,
+940,continuous improvement,3,y
+4045,structured programming languages,3,y
+2800,nosql databases,3,y
+4048,structures,3,
+4526,working relationships,3,
+2123,information,3,
+2787,nifi,3,y
+4053,success,3,
+4508,weka,3,y
+829,complexity analysis,3,y
+828,complex problems,3,y
+2789,nltk,3,y
+2026,hypothesis,3,
+4064,supply chain management,3,y
+83,aggregating data,3,y
+3293,project plans,3,
+3292,project planning,3,y
+4511,windows,3,y
+4037,structure,3,
+2108,industrialization,3,
+2042,ideation,3,y
+2067,imaging data,3,y
+3331,psychometric,3,y
+908,consultancy,3,y
+4008,strategic action,3,y
+907,consult,3,y
+4007,strategic acquisition,3,y
+55,ad targeting,3,y
+4016,strategic plans,3,
+56,ad-,3,
+3341,publishing,3,
+893,confidence intervals,3,y
+3346,pyspark,3,y
+2082,implemented,3,
+887,conceptualizing,3,y
+60,adaptability,3,
+881,conception,3,
+3317,proposal development,3,y
+2043,identification,3,
+877,computing platforms,3,y
+61,adaptable,3,y
+4514,word embeddings,3,y
+2025,hypotheses validation,3,y
+3984,statistics direct,3,y
+774,cognitive solutions,3,y
+3961,statistical model,3,y
+4082,survey design,3,y
+4543,yoga,3,
+752,code development,3,y
+2778,neural nets,3,y
+2168,inspecting,3,
+2187,intellectual,3,
+957,cooperating,3,y
+2169,inspire,3,y
+779,collaborates,3,y
+985,creative thinking,3,y
+2775,networks,3,y
+808,communicates,3,y
+2174,instrumentation,3,
+3972,statistical significance,3,y
+2177,insurance claims,3,y
+954,convolutional networks,3,y
+2189,intellectual property,3,y
+2151,innovating,3,y
+796,command line,3,y
+2198,interactive,3,y
+4501,web-scale,3,
+3957,statistical machine learning,3,y
+4486,web analytics,3,y
+2000,heuristics,3,y
+2181,integrating,3,
+3269,program,3,
+3538,research methodology,2,y
+1686,entity linking,2,y
+1674,enterprise,2,
+2864,operating,2,
+1688,entity resolution,2,y
+1687,entity recognition,2,y
+3633,scala.,2,y
+1562,documenting,2,y
+2548,measuring,2,
+3559,result,2,
+1677,enterprise data lakes,2,y
+1547,django,2,y
+2615,ml algorithm,2,y
+3022,physical sciences,2,y
+2863,opennlp,2,y
+1682,enterprise solutions,2,y
+2896,optimality,2,
+2619,ml languages,2,y
+2824,observation data,2,y
+2561,medical affairs,2,y
+2594,methodology development,2,y
+3542,researches,2,
+1689,entrepreneurial,2,
+2880,operational planning,2,y
+2591,methodological,2,
+1702,error metrics,2,y
+3034,pivot tables,2,y
+2849,ontologies,2,y
+2589,metadata,2,
+2602,microservices,2,y
+1707,etl development,2,y
+2845,online ecommerce,2,y
+2604,microsoft office suite,2,y
+2626,ml/dl,2,y
+2842,oncology,2,y
+2587,messaging,2,y
+2605,microstrategy,2,y
+2837,omni-channel optimisation,2,y
+2606,military,2,
+3040,platform engineering,2,y
+2877,operational efficiency,2,
+1694,environmental,2,
+1708,etl pipelines,2,y
+1693,environment,2,
+2831,office,2,
+2876,operational decisions,2,
+1551,dmp,2,y
+2829,occupational medicine,2,y
+1549,dm,2,y
+2872,operational analytics,2,y
+2827,observational research,2,y
+3027,pilates,2,
+1673,ensemble methods,2,y
+1659,engaging,2,
+3562,results orientated,2,y
+1564,domain,2,
+2781,neurips,2,y
+3537,research methodologies,2,y
+3605,routing,2,
+1631,electro-optical and infrared cameras,2,y
+1634,elmo,2,y
+1600,e-commerce.,2,y
+2966,patient care,2,
+2921,organisational capability,2,y
+1635,embedded platforms,2,
+3610,ruby,2,y
+2976,peer review,2,
+3611,russian,2,y
+1641,empirical research,2,y
+2977,peer reviews,2,
+3579,reviewing,2,
+2956,parallel programming,2,y
+2729,multithreading,2,y
+2949,ownership mindset,2,y
+2754,nave bayes,2,y
+2762,network analytics,2,y
+2764,network design,2,y
+2766,network modeling,2,y
+2768,network optimization,2,y
+1609,economic,2,y
+2928,organizational goals,2,
+2937,organize data,2,y
+3603,root-cause analysis,2,y
+1617,ee,2,
+2771,network strategy,2,
+2773,networked,2,
+2941,oriented,2,
+2774,networking,2,
+2734,multivariate testing,2,y
+2918,orally,2,
+2983,performance measurement,2,
+2795,non-relational databases,2,y
+2647,model design,2,y
+2656,model metrics,2,
+1571,draw meaningful conclusions,2,y
+2655,model management,2,y
+2651,model explanation,2,y
+2906,optimization techniques,2,y
+3006,persuasive,2,y
+2646,model deployment,2,y
+1613,eda,2,y
+3566,retail banking,2,y
+2812,object,2,
+2639,model automation,2,y
+1565,domain model,2,y
+2817,object oriented programming,2,y
+1668,english language proficiency,2,y
+2657,model operationalization,2,y
+2659,model output,2,
+2797,normalize,2,
+1585,duplicates,2,
+2684,modelling data,2,y
+1650,energy,2,
+1591,dynamic geospatial graphs,2,y
+1652,energy sciences,2,y
+2987,performance reporting,2,
+3573,revenue management,2,y
+2988,performance review,2,
+3622,sales departments,2,
+2989,performance reviews,2,
+1582,drug safety,2,y
+2907,optimization tools,2,y
+1580,drug development,2,
+3570,retraining strategies,2,
+2668,model selection,2,y
+3071,pragmatism,2,y
+2452,manage time,2,y
+1720,event sourcing paradigm,2,y
+2138,information theory,2,y
+1892,geo-statistics,2,y
+3436,re,2,y
+1895,geography,2,y
+2197,inter-personal,2,y
+3265,profiling,2,y
+3270,program design,2,y
+1903,geospatial data,2,y
+3272,programmatic advertising,2,y
+3642,scalable big data,2,y
+1911,github,2,y
+3279,programming skills,2,y
+1916,global mindset,2,y
+1918,glue,2,y
+3282,programs,2,
+2162,insight generation,2,y
+1923,governance,2,y
+2148,initiative,2,y
+3291,project plan,2,
+1927,gpu,2,y
+2146,ingesting,2,y
+2143,infrastructure development,2,y
+1891,geo data modelling,2,y
+3248,productize,2,
+2224,interpretability methods,2,
+2266,job scheduling,2,y
+2283,kafka,2,y
+1863,gather insights,2,y
+2280,k-,2,
+3455,real-time data processing,2,y
+3220,product personalization,2,y
+1867,general purpose programming,2,y
+2271,json,2,y
+2270,js,2,y
+3451,real-time auctioning,2,y
+1873,generate,2,
+3242,productionise,2,
+2261,java script,2,y
+3227,production code,2,
+2253,iterative,2,
+3445,real time analytics,2,y
+1880,genetic algorithms,2,y
+3444,real time,2,
+3232,production master,2,
+2244,investments,2,
+3238,production software,2,
+3296,promotion,2,
+3299,promotional response,2,y
+2293,knowledge engineering,2,y
+2133,information sciences,2,y
+2052,image data,2,y
+2048,image,2,
+2045,identifying,2,
+2039,icml,2,y
+2038,iclr,2,y
+2033,ibm spss,2,y
+3354,python stack,2,y
+3356,"python,",2,y
+2028,hypothesis generation,2,y
+3387,quantitative methodologies,2,y
+2024,hypotheses,2,
+1980,hdfs,2,y
+2022,hyperparameter optimization,2,y
+3363,qlikview,2,y
+2015,human resources,2,
+3386,quantitative investment,2,
+2014,human factors,2,
+2010,html,2,
+2001,hierarchical modeling,2,y
+3383,quantitative finance,2,y
+3377,quantitative analytics,2,y
+2062,imagery,2,
+1965,guiding,2,
+1959,growth mindset,2,y
+3312,property,2,
+2132,information science,2,y
+2128,information management,2,y
+3304,proof-of-concepts,2,
+3306,proofs of concept,2,
+2114,inferences,2,y
+3307,propensity,2,
+1937,graph analytics,2,y
+1939,graph data representations,2,y
+2109,industry,2,
+1944,graph inference,2,y
+2072,impactful,2,
+2101,industrial data science,2,
+3316,proposal,2,
+1946,graph representations,2,y
+2093,inclusive,2,y
+2089,imputaion,2,
+3404,query optimization,2,y
+3325,prototype development,2,y
+2075,impacting,2,
+3401,query language,2,y
+3459,realtime,2,
+2294,knowledge graph,2,y
+2543,measure performance,2,y
+3123,price modeling,2,y
+2494,marketing mix modeling,2,y
+3099,predictive model,2,
+3100,predictive model development,2,y
+1760,extracting,2,
+2486,market research,2,y
+1761,extracting data,2,y
+1762,extracting insights,2,y
+2482,market basket analysis,2,y
+2481,market analysis,2,y
+2479,market,2,
+1766,fair data practices,2,
+3106,predictive statistical models,2,y
+3107,predictive value,2,
+1773,feature,2,
+3109,preprocess data sets,2,y
+2469,manipulating data,2,y
+1778,feedback,2,
+3509,relationship extraction,2,y
+2464,managment,2,y
+3118,presenting papers,2,y
+3378,quantitative business analysis,2,y
+1752,exploratory analyses,2,y
+1748,exploration,2,
+2497,marketing optimization,2,y
+2515,mathematical fluency,2,y
+2542,measure,2,
+3072,pre-sales,2,
+3532,requirement analysis,2,y
+3074,predict,2,
+2532,matplotlib,2,y
+3082,prediction models,2,y
+3085,predictions,2,
+3088,predictive algorithms,2,y
+2516,mathematical framework,2,y
+1738,experimental designs,2,y
+3528,reporting.design,2,y
+2514,mathematical engineering,2,y
+2507,master data management,2,y
+2506,master data,2,
+2505,marts,2,
+1741,experimentation cycle,2,
+2504,markov,2,y
+2502,marketplace,2,
+1743,experimentation methodology,2,
+3094,predictive experiments,2,y
+2450,manage data,2,y
+1787,financial crime,2,y
+3208,product impact,2,y
+2439,mahout,2,
+2376,linguistics,2,y
+3485,regression analyses,2,y
+2358,life sciences,2,y
+3178,process design,2,y
+2351,libsvm,2,y
+2349,liaise,2,
+2346,learning tutorials,2,y
+3479,regex,2,y
+2341,learner,2,y
+2340,learn independently,2,y
+1833,forests,2,y
+3474,redshift,2,y
+3182,process performance,2,
+2331,lda,2,y
+3187,processing data,2,y
+2321,language models,2,y
+1847,frequentist statistics,2,y
+2310,labelling,2,
+3204,product engineering,2,y
+2299,knowledge management,2,y
+2297,knowledge graphs,2,y
+3490,regression models,2,y
+2377,linkage,2,
+1810,financials,2,y
+3144,proactive,2,y
+2433,machine-learning algorithms,2,y
+2430,machine vision,2,y
+3134,principal component analysis,2,y
+3136,prioritisation,2,
+2417,machine learning experiments,2,y
+2416,machine learning development,2,y
+1794,financial market,2,y
+2411,machine attention,2,y
+2409,lucene,2,
+3502,relational data,2,y
+2387,live,2,
+3150,probabilistic modeling,2,y
+1799,financial planning,2,y
+3151,probabilistic models,2,y
+3496,regularization,2,
+2395,logical thinking,2,y
+2394,logical recommendations,2,y
+2390,loading,2,
+1809,financial-services,2,y
+3156,probability networks,2,y
+4546,zeppelin,2,y
+2867,operating systems,2,y
+3643,scalable classification,2,y
+729,cloud computing platform,2,y
+4078,supportive,2,y
+4080,surf,2,
+789,collaboratives,2,y
+4089,svms,2,y
+4091,sw development,2,y
+768,coding standards,2,y
+4095,system architecture,2,y
+764,coding language,2,y
+759,code testing,2,
+4100,system performance,2,
+748,co-creation,2,y
+747,cnns,2,y
+743,cloudstorage,2,y
+4104,systems biology,2,y
+4106,systems engineering,2,y
+4077,supporting,2,
+4073,support design,2,y
+804,commercialize,2,
+4057,supervised learning,2,y
+857,computer image analysis,2,y
+4043,structured databases,2,y
+4047,structured thinking,2,y
+849,computational statistics,2,y
+843,computational oncology,2,y
+842,computational models,2,y
+4058,supervising,2,y
+4070,supply policies,2,
+827,complex,2,
+826,compilation toolchain,2,y
+4065,supply chain network models,2,y
+4067,supply chain process,2,
+817,community,2,
+4069,supply planning,2,y
+731,cloud infrastructure,2,y
+4119,tactical execution,2,y
+4034,streamsets,2,y
+715,clinical research,2,y
+622,casulity insurance,2,y
+616,care,2,
+613,capital markets,2,
+610,cancer biology,2,y
+4189,technical processes,2,y
+4191,technical progress,2,y
+4193,technical publications,2,y
+601,calculate,2,y
+600,calcul,2,y
+598,"caffe 2,",2,y
+595,c/c++,2,y
+4199,technical science,2,
+4209,technical tools,2,
+564,business process,2,
+561,business pipeline,2,
+623,catalog,2,
+4177,technical implementation,2,
+633,causal reasoning.,2,y
+687,cleartk,2,y
+714,clinical practices,2,
+4124,talend,2,y
+697,client profile,2,
+696,client presentations,2,y
+4136,team management,2,y
+4138,team working,2,y
+686,clearnlp,2,y
+4169,technical education,2,y
+680,clean-up,2,y
+676,classification models,2,y
+4146,technical analytics,2,y
+670,claims,2,
+4163,technical details,2,y
+4166,technical documentation,2,y
+4040,structured data,2,y
+885,conceptualize,2,y
+3847,software programming,2,y
+1055,customer profiling,2,y
+3896,specification,2,
+1105,data availability,2,
+1103,data assessment,2,
+1100,data anomalies,2,y
+3906,spotfire,2,y
+1081,dashboard applications,2,y
+1080,dashboard,2,y
+1078,d3.js,2,y
+1075,cybersecurity,2,y
+3912,sql server,2,y
+1066,customer support,2,
+1063,customer serving,2,
+1062,customer service,2,y
+3917,staff,2,
+3918,staffing,2,
+1111,data cleaning,2,y
+1115,data collection systems,2,y
+3888,sparkml,2,y
+1151,data ingestion pipelines,2,y
+1184,data operations,2,y
+1183,data munging,2,y
+3857,solicit,2,
+1171,data merging,2,y
+3865,solve,2,
+1161,data lake,2,y
+1142,data frameworks,2,y
+3886,spark mllib,2,y
+3877,source control management,2,y
+1138,data flow,2,y
+1137,data extraction transformation,2,y
+1136,data extraction,2,y
+3883,spacy,2,y
+1125,data dictionary,2,
+3919,staging,2,
+1049,customer life time,2,
+888,conclusions,2,
+1039,customer data,2,
+952,conversion maximization,2,
+3986,statistics.,2,y
+3987,statistics/,2,y
+939,continuous development,2,y
+933,content extraction,2,y
+928,containerization,2,
+3997,stochastics,2,
+3999,storage,2,
+923,container orchestration frameworks,2,y
+4013,strategic insights,2,y
+903,constructing,2,
+4019,strategic recommendation,2,y
+896,confluence,2,
+892,confidence,2,y
+891,conference presentations,2,
+959,cooperative,2,y
+963,coral,2,
+3979,statistical tools,2,y
+3943,statistical data modeling,2,y
+3937,statistical competence,2,
+3938,statistical computer,2,
+1028,customer analytics,2,y
+1024,curious,2,y
+1022,curated data,2,y
+3941,statistical data,2,y
+3947,statistical experiments,2,y
+969,couchdb,2,y
+995,credit risk modeling,2,y
+983,creative problem-solving,2,y
+980,creative content,2,y
+3968,statistical programming,2,y
+3971,statistical science,2,y
+972,cpu,2,
+4216,technique selection,2,y
+554,business objects,2,
+4222,technology autonomously,2,y
+103,agile working,2,y
+163,analysis tools,2,y
+155,analysing data,2,y
+151,analyse processes,2,y
+143,algorithms.,2,y
+135,algorithmic problem-solving,2,y
+134,algorithmic foundations,2,y
+133,algorithmic design,2,y
+4475,visualizing,2,y
+4477,viz,2,y
+124,algebra,2,y
+4479,warehousing,2,y
+4481,waterfall,2,y
+118,ai technologies,2,y
+115,ai platform,2,y
+114,ai models,2,y
+165,analyst,2,y
+4457,visual design,2,y
+167,analytic,2,y
+200,analytical perspective,2,y
+4424,variable selection,2,y
+226,analytics methodology,2,y
+4428,vector machines,2,y
+207,analytical programs,2,y
+204,analytical processing,2,y
+202,analytical principles,2,y
+4439,version control systems,2,y
+172,analytical approach,2,y
+192,analytical mind,2,y
+184,analytical experience,2,y
+183,analytical evidence,2,y
+4447,vip management,2,y
+176,analytical capability,2,y
+174,analytical business models,2,y
+4484,wearables,2,y
+100,agile software development,2,y
+548,business leaders,2,y
+99,agile processes,2,y
+42,actionable insight,2,y
+4522,workflow management,2,y
+40,action,2,y
+38,acquire,2,y
+33,accounting,2,y
+32,accountable,2,y
+28,access management,2,y
+27,access control,2,y
+19,a,2,y
+17,3.js,2,y
+15,/regression,2,y
+4537,x86 assembly,2,
+9,#NAME?,2,
+4540,xgboost,2,y
+2,#NAME?,2,
+4520,work organization skills,2,y
+48,actuarial science,2,
+49,ad,2,
+79,aerospace,2,
+4496,web scraping,2,y
+4497,web services,2,y
+93,agile environment,2,y
+4498,web technologies,2,y
+82,aggregating,2,y
+4504,webinars,2,
+4505,website,2,
+52,ad inventory estimation,2,y
+4507,websites,2,
+75,advisory,2,y
+71,advanced planning systems,2,y
+4509,what-if models,2,y
+67,adtech applications,2,y
+59,ad-tech,2,y
+4419,value chains,2,y
+4413,validating models,2,y
+4408,utilization,2,
+251,apache spark,2,y
+4272,thai,2,y
+463,biomarker development,2,y
+4275,theory,2,
+459,biological data,2,y
+457,biological,2,y
+449,bigquery,2,y
+448,bigdata,2,y
+447,big scale,2,y
+4292,time series data,2,y
+432,big data models,2,y
+4296,time series models,2,y
+422,bidding algorithms,2,y
+414,behavioural economics,2,y
+4307,tool,2,
+408,behavioral economics,2,y
+469,biomedical engineering,2,y
+4264,text analysis,2,y
+482,blockchain,2,y
+520,business analyses,2,y
+4223,technology innovation,2,
+542,business improvement,2,
+529,business data,2,
+525,business applications,2,
+523,business analytic,2,y
+522,business analyst,2,y
+509,build relationships,2,y
+486,blog,2,y
+4242,test algorithms,2,y
+4247,test driven development,2,y
+4249,test hypotheses,2,y
+496,brainstorm,2,
+4251,test models,2,y
+4255,test vehicles,2,y
+407,behavioral analytics,2,y
+4312,tools,2,
+4315,topic modelling,2,y
+294,articulating,2,y
+4370,ubuntu,2,y
+319,assortment optimization,2,y
+4377,underwrite,2,
+308,assessments,2,
+307,assessment,2,
+4384,unstructured data analytics,2,y
+4388,use cases,2,
+327,auctioning,2,
+285,architectural solutions,2,y
+282,architectural,2,y
+278,aps,2,
+4397,user experiences,2,
+254,apis,2,y
+252,api,2,y
+324,attention to details,2,y
+329,audience segmentations,2,y
+398,bayesian probability,2,y
+365,automotive data processing,2,y
+375,b testing,2,y
+4336,transforming,2,
+369,autonomously,2,
+368,autonomous vehicles,2,
+367,autonomous self-starter,2,y
+4337,transforming data,2,y
+4339,translating,2,y
+4363,trust,2,
+4344,transportation networks,2,y
+353,automatic translation,2,y
+348,automated processes,2,y
+4353,trend recognition,2,
+4359,triple/quad stores,2,
+333,auto-reply,2,
+1195,data privacy,2,
+736,cloud systems,2,y
+1352,dc,2,
+3817,skills,2,
+3724,segmentation analysis,2,y
+3766,sensor data,2,
+1253,data structure,2,
+1500,digitalisation,2,
+1413,demographic data,2,
+3825,soccer,2,
+1251,data streaming,2,y
+1248,data stories,2,y
+1355,debt collection optimization,2,y
+1246,data stack,2,
+3739,self-learner,2,y
+3666,science investigation,2,y
+1242,data source,2,
+1237,data services,2,
+3740,self-learning,2,y
+3663,scheduling,2,
+3741,self-management,2,y
+1359,decision analysis,2,y
+3662,schedule,2,
+3830,social media analytics,2,y
+1229,data science models,2,
+3832,social science,2,
+1397,delivered,2,
+1517,discuss,2,
+1223,data schemas,2,
+3818,skills development,2,y
+1347,datasets.,2,
+3656,scalanlp,2,y
+1267,data validations,2,y
+1303,data-intensive,2,
+1457,develop solutions,2,y
+1296,data-driven mindset,2,y
+1295,data-driven insights,2,y
+3792,shell,2,y
+3705,scrum framework,2,y
+3804,simulate,2,
+1463,developing models,2,y
+3708,search engine,2,y
+3699,script,2,y
+3786,servicing,2,y
+1292,data-driven decisions,2,
+1319,database concepts,2,
+1323,database modeling,2,y
+3780,service delivery,2,y
+1288,data-driven analyses,2,y
+1339,datadriven,2,
+3684,scientific work,2,
+1279,data warehousing technology,2,y
+3774,series,2,
+3683,scientific thinking,2,y
+3680,scientific mindset,2,y
+1276,data warehouses,2,y
+1275,data warehouse tuning,2,y
+1269,data visualisations,2,y
+1395,delegation,2,
+3702,scripting languages,2,y
+1375,deductive reasoning,2,y
+1212,data provisioning,2,y
+3757,semantic web,2,y
+1205,data products,2,
+3755,semantic search applications,2,y
+1528,distributed computing systems,2,y
+1383,deep learning architectures,2,y
+3759,semantic-enabled systems,2,y
+3837,software applications,2,y
+1387,deep learning vision,2,y
+1522,distance,2,
+1217,data querying,2,y
+1385,deep learning framework,2,y
+3748,selling documents,2,y
+1521,disposal,2,
+3834,socializing,2,
+1390,deep neural networks,2,y
+1520,display,2,
+3061,power generation,1,
+4361,troubleshoot deployments,1,y
+3585,risk dashboards,1,
+4236,tensorboard,1,y
+3586,risk differentiation,1,
+4364,trusted,1,
+3060,power bi,1,y
+3154,probability analysis,1,y
+3070,pragmatic,1,y
+3063,power transformers,1,y
+3712,search queries,1,y
+4367,tweaks,1,
+4365,trx,1,y
+3068,practical exercises,1,y
+3067,pr,1,
+3584,risk analytics,1,y
+3711,search logic,1,y
+4366,tsql,1,y
+3062,power pivot,1,y
+3066,powerpoints,1,y
+4238,tensorflow serving,1,y
+3073,predicitive analysis,1,y
+3083,prediction systems,1,y
+3715,search technologies,1,y
+4341,transmission,1,
+3087,predictive /,1,y
+3581,rework,1,
+3749,sem,1,
+4345,travel content,1,
+4346,travel modelling,1,
+4239,tensorflow-object detection api,1,y
+3582,rfp/rfq creation,1,y
+4347,treasury,1,
+4348,treat,1,
+3084,prediction tasks,1,y
+4349,treatment,1,
+4358,triple,1,
+4350,tree based methods,1,y
+3081,prediction modeling,1,y
+3714,search ranking,1,y
+4351,tree-based,1,y
+3713,search rank,1,y
+3080,prediction and,1,
+3079,prediction algorithms,1,y
+4355,trial management,1,y
+4356,trial protocol,1,
+4368,"tx2,",1,
+3076,predictability,1,y
+3075,predict probabilities,1,y
+3709,search engine marketing,1,y
+4259,testing algorithms,1,y
+4369,typescript,1,y
+4234,temporal data structures,1,y
+4233,temporal data,1,y
+3039,platform development,1,y
+3159,problem definition,1,y
+4379,unit-testing,1,y
+4380,univariate/multivariate statistics,1,y
+3160,problem domains,1,y
+3037,planting,1,
+4382,unix-based,1,
+3590,risk mitigation,1,y
+3161,problem framing,1,y
+4386,up,1,
+4232,telemetry data,1,y
+3591,risk modelling,1,y
+4390,user acquisition,1,y
+3035,pivoting,1,y
+3592,risk models,1,y
+3033,pipelining,1,y
+4392,user behavior modeling,1,y
+4393,user behavior models,1,y
+3704,scrum development,1,y
+3030,piloting,1,y
+4394,user behaviors,1,y
+4395,user engagement,1,y
+3706,scrum).,1,y
+4376,underwater acoustics,1,y
+3058,postgres,1,y
+4375,understanding,1,y
+3155,probability methods,1,y
+3057,postgis,1,y
+3056,post-sales data science,1,y
+3716,sec,1,y
+3054,portfolio health analysis,1,y
+3053,population,1,y
+3555,response models,1,y
+3052,pooling,1,y
+3051,pong,1,y
+3050,politics,1,y
+3588,risk insights,1,y
+4371,ui,1,y
+3751,semantic experiences,1,y
+4372,un-supervised learning,1,y
+3046,point cloud processing libraries,1,y
+4373,uncertainty quantification,1,y
+3045,pms,1,y
+3553,response,1,y
+4374,uncover insights,1,y
+3044,plotting libraries,1,y
+3043,plotly,1,y
+3042,platforms,1,
+3041,platform programming,1,y
+3587,risk factors,1,
+3717,secondary analysis,1,y
+3578,review designs,1,y
+3115,presentation stories,1,y
+4276,thesaurus,1,y
+3120,prevention,1,
+3746,self-service analyses,1,y
+3119,presto,1,y
+4277,things,1,
+4254,test trading models,1,y
+4253,test sets,1,y
+4278,think about,1,
+4281,thought ethic,1,y
+4283,threaded,1,
+4252,test process,1,
+3114,presentation skills,1,y
+3122,price execution,1,
+3560,result-oriented,1,
+3112,present data,1,y
+3567,retail execution,1,
+3736,self-drive,1,y
+3143,private equity,1,y
+3110,prescriptive analysis,1,y
+4250,test integration,1,y
+4284,threat intelligence,1,y
+4285,thresholding techniques,1,y
+4286,tide,1,
+4289,time management.,1,y
+3121,price analyses,1,y
+3743,self-motived,1,y
+3557,responsible,1,y
+3563,results-oriented,1,y
+3138,prioritise requests,1,y
+4260,testing framework,1,y
+4261,testing strategies,1,y
+4257,testability,1,
+4266,text classification,1,y
+3140,prioritization plans,1,y
+3133,primary market research,1,y
+3132,primary data storage,1,y
+4267,text content,1,y
+3131,pricing strategy,1,y
+4269,text processing,1,y
+3130,pricing strategies,1,y
+3565,retail analytics,1,y
+3129,pricing sensitivity analysis,1,y
+3128,pricing logic,1,
+3127,pricing analytics,1,y
+3126,pricing analyses,1,y
+4270,text-wrangling,1,y
+3745,self-reliant,1,y
+4256,test/learn,1,y
+4271,tf,1,y
+3744,self-organized,1,y
+4273,theoretical,1,y
+3124,price prediction,1,y
+3568,retargeting,1,y
+4294,time series methods,1,y
+3145,proactive monitoring,1,y
+3092,predictive applications,1,y
+3098,predictive maintenance modeling,1,y
+3719,securities,1,
+4319,trade execution,1,
+3096,predictive machine learning,1,y
+4323,training pipelines,1,y
+4325,trains,1,
+4245,test coverage,1,y
+3095,predictive learning,1,y
+4326,trampoline,1,y
+3093,predictive data models,1,y
+4327,transaction,1,y
+4328,transactional,1,y
+3732,self-assessment,1,y
+4244,test cases,1,y
+4330,transactions,1,y
+4331,transcripts,1,y
+3574,revenue strategies,1,y
+3091,predictive analytics algorithms,1,y
+4335,transformers,1,y
+2869,operation planning,1,y
+3137,prioritise,1,y
+3576,review analysis,1,y
+4243,test case plan,1,y
+3577,review data,1,y
+3558,rest-apis,1,y
+4316,topic models,1,y
+4248,test engineering,1,y
+3721,security experience,1,y
+4297,time series prediction,1,y
+4298,time value analysis,1,y
+4299,time-dependent probability distribution modeling.,1,y
+3729,seismic interpretation,1,y
+4300,time-domain,1,y
+4303,time-series forecasting,1,y
+3105,predictive rental pricing models,1,y
+3146,proactive thinking,1,y
+4304,tissue microarray,1,y
+4305,token-economics,1,y
+3728,segregation,1,y
+4306,tokenization,1,y
+3727,segmenting markets,1,y
+4308,tool stack,1,y
+3102,predictive modeling.,1,y
+4309,toolboxes,1,y
+3147,proactively insights,1,y
+3725,segmentation models,1,y
+3594,robotic design,1,y
+3148,proactivity,1,y
+3149,probabilistic,1,y
+3722,security systems,1,y
+4313,top,1,y
+3473,redispatching,1,y
+4410,validate models,1,y
+4398,user history,1,y
+4488,web application development,1,y
+2927,organizational efficiency,1,y
+4491,web crawling,1,y
+4492,web data,1,y
+3667,sciences,1,y
+3620,sage maker,1,y
+4495,web platform,1,y
+2924,organisational skills,1,y
+3664,schema mapping,1,y
+3623,sales process,1,y
+3624,salesforce,1,y
+4499,web-analytics,1,y
+2923,organisational improvements,1,y
+2922,organisational goals,1,y
+4500,web-based,1,y
+2920,order data,1,y
+4502,web-scale data,1,y
+3625,saliency detection,1,y
+4503,web-scale data processing,1,y
+2919,order,1,y
+3626,sampling,1,y
+2917,oral communications,1,y
+3627,sandbox,1,y
+4506,website experience,1,y
+2914,optimizing code,1,y
+3661,scenario and sensitivity analysis,1,y
+3628,sanger,1,y
+3629,sankey chart,1,y
+4489,web application frameworks,1,y
+2929,organizational health,1,y
+2947,overseeing,1,y
+4487,web apis,1,y
+2945,outlier detection,1,y
+4470,visualization applications,1,y
+4471,visualization technologies,1,y
+4474,visualize insights,1,y
+3676,scientific libraries,1,y
+2943,oss,1,y
+2942,os,1,y
+3675,scientific knowledge,1,y
+2940,organizing sessions,1,y
+3674,scientific investigative,1,y
+3615,sae reconciliation,1,y
+4476,visualizing data,1,y
+3673,scientific insights,1,y
+4478,voice of customer,1,y
+3617,safety-,1,y
+4480,warship,1,y
+3618,safety-related,1,y
+3672,scientific evidence,1,y
+2934,organizational skills.,1,y
+4482,watson studio,1,y
+2932,organizational policies,1,y
+4483,wearable devices,1,y
+3671,scientific consulting,1,y
+3619,sage,1,y
+2931,organizational needs,1,y
+3669,scientific analysis,1,y
+2930,organizational issues,1,y
+3659,scaling ml models,1,y
+2912,optimize pricing,1,y
+2911,optimize performance,1,y
+4510,wif,1,y
+3639,scalable analysis,1,y
+3650,scalable platforms,1,y
+4533,written communication,1,y
+2884,operational systems,1,y
+2883,operational software,1,y
+3648,scalable machine learning infrastructure,1,y
+4534,written examinations,1,y
+2881,operational processes,1,y
+3640,scalable analytics,1,y
+4535,written/spoken,1,y
+4536,x,1,
+2879,operational guidance,1,y
+2878,operational excellence,1,y
+3647,scalable infrastructure,1,y
+4538,xavier,1,y
+4539,xbox,1,y
+3646,scalable distributed systems,1,y
+3645,scalable data products,1,y
+2875,operational datasets,1,y
+2874,operational databases,1,y
+2873,operational assistance,1,y
+4541,yarn,1,y
+4542,yield assignment,1,y
+4544,zalando kpis,1,y
+4545,zementis,1,y
+3641,scalable back-end solutions,1,y
+2870,operation research,1,y
+3651,scalable production,1,y
+2887,operations improvement,1,y
+4527,world data,1,y
+2900,optimization algorithms,1,y
+3658,scaling,1,
+4512,wiskunde,1,
+2909,optimizations,1,
+2908,optimization.,1,y
+4513,withflask,1,
+4515,word/sentence embeddings,1,y
+2905,optimization systems,1,
+4517,work autonomously,1,
+2904,optimization strategies,1,
+2903,optimization models,1,
+2902,optimization frameworks,1,
+2901,optimization analytics,1,y
+3655,scalable training,1,y
+2888,operations management,1,y
+2897,optimisation,1,
+3634,scala/,1,y
+3635,scala/spark,1,y
+2895,optimal utilization,1,
+3652,scalable software,1,y
+2894,optimal solution design,1,y
+4525,working independently,1,y
+2893,optimal planning,1,y
+2892,optimal analytical solutions,1,y
+2891,ops,1,
+3638,scalable algorithms,1,y
+2889,operations planning,1,
+2946,output consumption,1,
+2948,ownership,1,y
+3028,pillow,1,y
+4420,value metrics,1,
+4422,variable importance measures,1,y
+3008,persuasiveness,1,y
+4423,variable reduction,1,y
+3698,screening,1,
+3600,roll-out,1,
+4425,variance,1,
+4427,vba modelling).,1,y
+3696,scouting,1,y
+4429,vectorization,1,y
+3004,personalized modeling,1,y
+3003,personalized medicine,1,y
+4430,velocity,1,
+4431,vendor management,1,y
+4433,verbal communication,1,y
+4434,verification,1,
+3695,scoring models,1,y
+4435,verification procedures,1,
+3601,root cause analyses,1,y
+3000,personal assistant,1,
+2999,personal,1,
+2998,persistence,1,y
+3694,scoring algorithm,1,y
+2996,perishable inventory,1,y
+3692,scoping,1,
+2994,perfrom,1,
+3691,sckit-learn,1,y
+2993,performing,1,
+4421,value proposition,1,
+3010,ph.d.,1,
+3613,"s3,",1,y
+4418,value chain,1,y
+4399,user ltv,1,
+4400,user reporting,1,y
+4401,user search queries,1,y
+4402,user-centric methods,1,y
+3026,pig,1,y
+4403,user-engagement metrics,1,y
+4404,user-generated content,1,y
+3025,pie,1,
+4405,user-intent,1,y
+4406,users,1,
+3596,robotics,1,y
+4407,utility payment,1,
+3024,phyton,1,
+3597,robotics process,1,y
+3598,roi analysis,1,y
+3599,role-plays,1,y
+4231,telematics datasets,1,y
+3020,phrase detection,1,y
+4411,validate requirements,1,y
+3018,phone accelerometer,1,
+4415,validation specs,1,
+3016,pharmacoepidemiology,1,
+3015,pharmaceutical quality assurance,1,y
+3014,pharmaceutical process,1,y
+3013,pharmaceutical industry,1,
+4416,valorization,1,
+3012,pharmaceutical development,1,y
+4440,versioning,1,
+4441,vetting,1,
+2992,performed,1,
+2991,performant,1,
+2968,pattern detection,1,y
+2967,pattern analysis,1,y
+3609,rshiny,1,
+2965,patient,1,
+3681,scientific programming,1,y
+2964,pathology,1,y
+4458,visual displays,1,y
+4459,visual learning,1,y
+2963,path analyses,1,y
+2962,passionate,1,y
+4460,visual tools,1,y
+2960,part-of-speech tagging,1,y
+2959,parse,1,
+4462,visualisation stack,1,y
+3677,scientific manuscripts,1,y
+2958,parquet,1,y
+2957,parameter estimation,1,y
+4464,visualisations,1,y
+2955,parallel computing,1,y
+2954,parallel,1,
+2953,panel data,1,y
+3612,s vision,1,
+4465,visualisationsupported,1,y
+4467,visualising,1,y
+2951,package technical concepts,1,y
+2950,p-values,1,y
+4468,visualising data,1,y
+2969,pattern discovery,1,y
+4456,visual data presentations,1,y
+4455,visual analytics,1,y
+4448,virtual machines,1,y
+4442,video,1,
+2990,performance tuning,1,y
+4443,video analytics,1,y
+3687,scikit-,1,y
+4444,video content analysis,1,y
+2986,performance qualification,1,y
+4445,video processing,1,y
+2985,performance monitoring,1,y
+4446,views,1,
+3604,route,1,
+3685,scientifically,1,
+2982,performance indicators,1,
+2980,performance dashboards,1,y
+2972,pay,1,
+4449,virtualisation,1,y
+4450,virtualised environments,1,y
+2979,performance analysis,1,y
+4451,virtualization,1,y
+4452,visio.healthcare,1,y
+3606,routing algorithms,1,y
+3607,routing structures,1,y
+2975,peace research,1,
+2974,pca,1,y
+2973,payments,1,
+3608,row,1,
+4454,vision data,1,
+3163,problem scoping,1,y
+3177,process data,1,y
+4230,telematics data,1,y
+3973,statistical simulations,1,y
+3364,qlx,1,y
+3814,skill development,1,y
+3361,qc,1,y
+3360,pytorch keras,1,y
+3507,relational dbs,1,y
+3980,statistical validation,1,y
+3358,pythonic code,1,y
+3981,statistico-matematico,1,y
+3508,relational systems,1,y
+3983,statistics  hypothesis testing,1,y
+3357,python.,1,y
+3985,statistics-,1,
+3813,skiing,1,
+3355,python).,1,y
+3988,statistiscal,1,
+3990,statsmodels,1,y
+3353,python scipy stack,1,y
+3812,skating,1,
+3351,python libraries,1,y
+3350,python coding,1,y
+3991,steer,1,
+3992,stochastic calculus,1,y
+3349,python / r.,1,y
+3993,stochastic differential equations,1,y
+3994,stochastic modelling,1,y
+3811,situational exercises,1,
+3995,stochastic models,1,y
+3974,statistical skills,1,y
+3505,relational database software,1,y
+3824,soc,1,y
+3366,qualitative data,1,
+3822,snowflake,1,y
+3821,slq,1,
+3820,slides,1,
+3819,sklearn,1,y
+3385,quantitative insights,1,y
+3384,quantitative financial analysis,1,y
+3944,statistical data modelling,1,y
+3945,statistical data models,1,y
+3382,quantitative engineering,1,y
+3380,quantitative data analysis,1,y
+3948,statistical genetics,1,y
+3952,statistical languages,1,y
+3379,quantitative data,1,y
+3954,statistical learning methods,1,y
+3955,statistical learning models,1,y
+3956,statistical literacy,1,y
+3375,quantitative analyses,1,y
+3959,statistical methodology,1,y
+3963,statistical modeling-,1,y
+3373,quality processes,1,
+3372,quality management,1,
+3504,relational database platforms,1,y
+3370,quality assurance testing,1,y
+3967,statistical predictive models,1,y
+3368,quality analytics,1,y
+3816,skill- banking,1,y
+3815,skill management,1,y
+3996,stochastic processes,1,y
+3348,python - pandas,1,y
+3512,release process,1,
+3513,relevance matching,1,y
+3806,simulation methods,1,y
+4021,strategically,1,
+3517,remotely,1,
+3518,rendimiento,1,
+4022,strategically advising,1,
+3323,protocol review,1,y
+3322,protein design,1,y
+4024,strategize,1,
+3519,repeatable code,1,
+3321,protection,1,
+3320,proposing,1,
+3319,propose,1,y
+4026,strategy analysis,1,y
+3318,proposal generation,1,y
+4027,strategy consulting,1,y
+4028,strategy formulation,1,y
+4029,stream data processing,1,y
+4030,stream processing,1,y
+3315,property prediction,1,
+4031,streaming data,1,y
+4032,streaming platforms,1,y
+3314,property ownership networks,1,y
+4033,streamlining,1,y
+3313,property management,1,
+4035,string manipulation,1,y
+3310,proper,1,
+4036,strong,1,
+3516,remote development,1,
+4018,strategic projects,1,
+4017,strategic procurement,1,
+4004,story-telling.,1,y
+3998,stock previsions,1,
+3345,pyramid,1,
+3344,pydata stack,1,y
+3810,simulink,1,y
+3343,publishing research,1,
+3342,publishing patents,1,
+4000,storage complexities,1,
+4001,store level,1,
+4002,story board,1,y
+4003,story-telling,1,y
+3338,public transport,1,y
+3337,public presentations,1,y
+3336,public health care databases,1,y
+3515,relocation,1,
+4009,strategic analytics,1,
+3334,public,1,
+3333,ptp,1,
+4010,strategic business,1,
+3332,psychometrics,1,
+4011,strategic decisions,1,y
+4012,strategic initiatives,1,y
+3807,simulation modeling,1,y
+4014,strategic mindset,1,y
+3329,psa,1,y
+3328,provide insights,1,y
+4015,strategic plan,1,y
+3823,soap frameworks,1,y
+3936,statistical analytical,1,y
+3309,propensity models,1,y
+3838,software components,1,y
+3449,real-time algorithms,1,y
+3863,solutioning,1,
+3866,solve complex problems,1,y
+3446,real time event detection,1,y
+3478,refining,1,y
+3870,solving sentiment,1,y
+3871,sonar,1,
+3872,sorting,1,y
+3873,sound analysis,1,y
+3442,real data testing,1,y
+3480,regexes,1,y
+3876,source control,1,y
+3439,reading,1,
+3438,reactive programming,1,y
+3437,react,1,y
+3481,regional management,1,y
+3835,sociology,1,
+3435,rdf,1,y
+3833,social skills,1,y
+3434,rdc,1,y
+3880,sourcing,1,y
+3432,rbm,1,y
+3431,ray,1,
+3430,raw,1,
+3881,sourcing data,1,
+3882,sourcing datasets,1,
+3429,rate x volume,1,
+3862,solution validation,1,y
+3861,solution methodology,1,y
+3935,statistical analysis methods,1,y
+3452,real-time bidding,1,y
+3844,software lifecycle,1,y
+3845,software maintenance,1,y
+3472,red sqirl,1,y
+3471,recurrent nns,1,y
+3846,software modules,1,
+3848,software programs,1,
+3469,recurrent network,1,y
+3468,recruitment,1,
+3849,software research,1,y
+3466,record linking,1,
+3839,software containers,1,
+3850,software specifications,1,
+3851,software systems,1,
+3852,software systems architecture,1,y
+3853,software technologies,1,
+3854,software tools,1,
+3855,software-driven,1,
+3475,reduce,1,
+3458,real-time streaming,1,y
+3457,real-time embedded,1,y
+3856,software.development,1,y
+3456,real-time data stack,1,y
+3477,refactoring,1,y
+3858,solution,1,
+3859,solution design,1,y
+3454,real-time data,1,y
+3453,real-time buying engine,1,y
+3884,spanish,1,y
+3483,regressie,1,
+3427,rapid development,1,y
+3426,ranking,1,y
+3910,sqirl,1,
+3827,social competence,1,
+3913,ssh,1,y
+3914,ssps,1,y
+3407,queryable,1,
+3406,query techniques,1,y
+3916,stacking,1,y
+3495,regular expressions,1,y
+3403,query management,1,y
+3497,reimbursement,1,
+3498,reinforcement,1,y
+3920,stakeholder management,1,y
+3398,quantum improvement,1,y
+3397,quantitative techniques,1,y
+3921,stan,1,
+3922,standard,1,
+3923,standardize,1,
+3924,star schema structures,1,y
+3925,stash,1,
+3395,quantitative scientific,1,y
+3500,relation extraction,1,y
+3926,stat tool,1,y
+3392,quantitative problem solving,1,y
+3928,state vision design,1,y
+3929,statements,1,y
+3930,statical analysis,1,y
+3932,statistical algorithms,1,y
+3909,spss modeler,1,y
+3411,queueing systems,1,y
+3493,regressional modelling,1,y
+3897,specifications,1,
+3887,spark optimization,1,y
+3889,sparse,1,y
+3890,spatial data,1,y
+3891,spatial regression,1,y
+3892,spatial-temporal data,1,y
+3893,spatio-temporal analysis,1,y
+3422,radiology,1,y
+3894,speak,1,y
+3421,r/,1,y
+3420,r..,1,y
+3487,regression discriminant analysis,1,y
+3488,regression modeling,1,y
+3898,spectrum allocation,1,y
+3412,queuing systems,1,y
+3418,r&d processes,1,y
+3829,social media,1,y
+3489,regression modelling,1,y
+3828,social environments,1,y
+3416,r programming,1,y
+3902,spinning,1,
+3415,r /,1,y
+3904,spoken/written english,1,y
+3905,sports,1,
+3491,regression testing,1,y
+3907,spreadsheet,1,y
+3492,regression trees,1,y
+4038,structure data,1,y
+4041,structured data problems,1,y
+4229,telematics,1,y
+3216,product metrics,1,
+4162,technical designs,1,y
+3539,research programs,1,y
+4164,technical direction,1,
+4165,technical discussions,1,
+4167,technical domain,1,
+3214,product life-cycle,1,
+3213,product life cycle management,1,y
+3212,product life cycle,1,
+3211,product intelligence,1,
+3210,product innovation,1,
+3209,product improvement,1,
+4168,technical drawings,1,y
+3540,research prototypes,1,y
+4170,technical environment,1,
+4173,technical feasibility,1,y
+3207,product feedback,1,
+3541,research reports,1,y
+3206,product features,1,
+4174,technical finance,1,y
+3205,product enhancement,1,y
+4175,technical fluency,1,y
+4176,technical governance,1,y
+3203,product developments,1,y
+3764,senior management,1,
+4178,technical innovation,1,y
+3201,product designs,1,y
+4179,technical issues,1,
+4160,technical demonstrations,1,y
+4159,technical data,1,
+3771,sequence data,1,
+4158,technical contents,1,
+3535,research code,1,y
+3231,production lifecycles,1,y
+3230,production implementation,1,y
+4135,team decision making,1,y
+3536,research design,1,y
+3770,seo,1,y
+3769,sentimental analysis,1,y
+3767,sensors,1,
+4143,technical advice,1,
+4144,technical aid,1,
+3225,product vision,1,
+4147,technical architect,1,y
+4148,technical architecture,1,y
+3765,sensor,1,
+4149,technical aspects,1,
+4150,technical assistance,1,
+3224,product strategy,1,
+4154,technical competence,1,y
+3223,product requirements,1,
+3222,product prototypes,1,y
+3221,product problems,1,
+4155,technical components,1,
+4156,technical computations,1,
+4157,technical content,1,
+3219,product performance,1,
+3218,product oriented,1,
+3217,product momentum tracking,1,y
+3200,product design,1,y
+3762,semi-supervised learning algorithms,1,y
+3199,product delivery,1,y
+4181,technical knowledge transfer,1,y
+3179,process development,1,y
+4200,technical simulation models,1,y
+4201,technical skill,1,y
+4206,technical statistical modeling,1,y
+4207,technical strategies,1,y
+3550,resource-,1,
+4210,technical understanding,1,y
+4211,technical work,1,y
+3843,software implementation,1,y
+3176,process control,1,y
+4213,technically,1,
+4214,technically design,1,y
+3756,semantic skills,1,y
+3175,process automation,1,y
+3174,process analysis,1,y
+3551,resourcefulness,1,y
+3172,proceso,1,
+4217,techniques,1,
+4218,technological watch,1,
+3168,problem-solver,1,y
+3167,problem statements,1,
+3754,semantic models,1,y
+3753,semantic modeling,1,y
+3166,problem statement,1,y
+4224,technology stack,1,y
+3752,semantic master,1,y
+4225,technologys,1,y
+3549,resource planning,1,y
+3181,process parallelization,1,y
+4198,technical results,1,y
+3189,procure to,1,
+3197,product data attribution,1,
+3196,product data,1,
+3195,product build,1,y
+3194,product attribution,1,y
+3761,semi-structured data,1,y
+4183,technical marketing,1,y
+4184,technical mentorship,1,y
+3191,producibility data templates,1,y
+3760,semi structured data,1,y
+4185,technical methodologies,1,y
+4186,technical methods,1,y
+3544,reservoir modeling,1,y
+4187,technical operations,1,y
+4197,technical resources,1,y
+3188,processing pipelines,1,y
+4188,technical problems,1,y
+3545,reservoir simulation,1,y
+4190,technical product development,1,y
+4192,technical projects,1,y
+3546,resilience,1,y
+3547,resolving,1,
+3184,process reviews,1,y
+3758,semantic web stack,1,y
+4194,technical queries,1,y
+3548,resource management,1,y
+4196,technical resource,1,y
+3233,production models,1,y
+3234,production optimization,1,y
+4042,structured data processing,1,y
+4068,supply hierarchy,1,y
+3527,reporting structures,1,y
+4072,support automation,1,y
+3290,project management skills,1,y
+3791,sharing,1,
+4074,support strategy,1,
+4076,supportincluding,1,
+3288,project lifecycle tooling,1,y
+3790,shaping,1,
+3789,sfdc,1,y
+3287,project design,1,y
+3286,project delivery,1,y
+3285,project coordination,1,y
+4079,supports study,1,y
+3284,project,1,
+3788,setup,1,
+3283,progressive,1,y
+4081,survey,1,y
+3281,programming techniques,1,y
+3280,programming software,1,y
+4085,survival and,1,
+4086,sustainability,1,
+4087,sustainable design software,1,
+4090,svn,1,y
+3276,programming concepts,1,
+3785,services management,1,y
+4092,swl,1,
+4093,symbolic programming,1,y
+3526,reporting services,1,
+3525,reporting integration,1,y
+3235,production pipeline,1,y
+3524,reporting insights,1,y
+3802,significance,1,
+4044,structured prediction,1,y
+4046,structured query language,1,y
+3800,sifting,1,
+3305,proof-of-concepts.,1,y
+3799,sift,1,
+4050,subsystem,1,
+4051,subsystem performance,1,
+4052,subversion,1,
+3303,proof-of-concept trials,1,
+3798,showcasing,1,
+4054,sunburst chart,1,y
+4055,supervise,1,
+3301,proof of concept,1,
+3300,promotions,1,
+4056,supervised,1,
+3797,shogun,1,y
+3796,shipping predictive data,1,y
+4059,supervision,1,y
+3298,promotional effectiveness,1,
+3523,reporting dashboards,1,y
+3795,shipping,1,
+4061,supply building,1,
+3297,promotional,1,
+4063,supply chain /,1,y
+3794,shell scripts,1,y
+3294,project proposals,1,y
+3783,service portfolio evolution,1,
+4096,system control,1,y
+3274,programmation languages,1,y
+3782,service metrics,1,
+4111,systems thinking,1,y
+3251,produktive,1,
+3775,serve,1,
+4112,t code conversions,1,y
+4113,t-sql,1,y
+4115,tabular data,1,y
+3247,productization,1,
+4116,tabular deep learning,1,y
+4120,tactical insights,1,y
+4121,tactical plan,1,y
+3533,requirements,1,
+3773,sequential pattern discovery,1,y
+4122,tactics,1,
+4123,tag management,1,y
+3245,productionizing,1,y
+3244,productionize,1,y
+3772,sequencing data,1,y
+3243,productionising,1,y
+4125,talk,1,
+3241,production-ready code,1,y
+4127,task prioritization,1,y
+4128,tasks,1,
+3239,production software systems,1,y
+4129,tax,1,
+3237,production scale,1,
+4130,tdd,1,y
+3236,production research,1,y
+3531,required transformations,1,y
+4110,systems tests,1,y
+3255,professional education,1,y
+3266,profitability analyses,1,y
+3273,programmatic data analytics,1,y
+4098,system development,1,y
+3781,service management,1,y
+3271,programmatic,1,y
+4099,system level,1,
+4101,systemes,1,
+3779,service,1,
+3530,representational learning,1,y
+4103,systems analysis,1,y
+3777,server-side languages,1,y
+3268,prognosis,1,
+3267,profond,1,
+3776,server side programming,1,
+4109,systems strategy,1,
+4105,systems data,1,
+3264,profiles,1,y
+3263,professionalism,1,
+3262,professional work,1,
+3261,professional skills development,1,y
+4107,systems evaluation,1,y
+4108,systems libraries,1,y
+3259,professional qualifications,1,
+3644,scalable data analytics,1,y
+3258,professional programming,1,y
+3257,professional presentations,1,y
+3256,professional ethics,1,y
+3718,secure,1,
+0,'s,1,
+2868,operation,1,
+890,conference,1,
+934,content optimization,1,y
+935,contextual targeting,1,y
+936,continuing education,1,
+937,continuing education policy,1,
+942,continuous learning,1,y
+943,contracting,1,y
+944,control,1,
+945,control theory,1,y
+946,controlling,1,
+947,conversational,1,
+948,conversational agents,1,
+949,conversational ai,1,y
+950,conversational interface,1,y
+953,conversion probabilities,1,y
+956,convolutional nns,1,y
+964,corporate databases,1,y
+965,correlation,1,y
+966,correlative,1,
+967,cost classification,1,y
+968,cost modeling,1,y
+970,coursework,1,
+971,cpg,1,y
+973,crawling,1,y
+932,content creation,1,y
+929,containerization technologies,1,
+927,containerised deployment,1,
+913,consulting staff,1,
+895,conflict resolution,1,
+897,consistency,1,
+898,consistent media taxonomy,1,
+899,constituency and,1,
+904,construction,1,
+905,construction data,1,y
+906,constructive,1,
+909,consultative,1,
+910,consultative acumen,1,y
+911,consultative skills,1,y
+914,consumer analytics,1,y
+926,containerisation,1,
+915,consumer electronics,1,y
+916,consumer experiences,1,
+917,consumer lifecycle management,1,y
+918,consumer product & retail,1,y
+919,consumer products,1,
+920,consumer satisfaction,1,y
+921,consumer surveys,1,y
+922,container based services,1,y
+924,container technologies,1,y
+925,container technology,1,y
+974,create,1,
+975,create insights,1,y
+976,creating,1,
+1037,customer care data,1,
+1020,ct,1,
+1021,cuisine,1,
+1027,customer analysis,1,y
+1029,customer application,1,
+1031,customer behavior analyses,1,y
+1032,customer behavior analysis,1,y
+1033,customer behavioral analytics,1,y
+1034,customer behavioral clustering,1,y
+1035,customer behaviour,1,y
+1036,customer behaviours,1,y
+1038,customer centric,1,
+1016,cryptographic,1,y
+1040,customer data privacy,1,y
+1044,customer improvement,1,y
+1047,customer interaction,1,y
+1048,customer journey optimisation,1,y
+1050,customer lifecycle,1,y
+1051,customer ltv,1,y
+1052,customer preference,1,
+1053,customer presentations,1,y
+1054,customer problem,1,
+1056,customer requirements,1,
+1019,csuite,1,
+1014,cross-lingual alignment/,1,y
+977,creating forecasts,1,y
+997,credit risk models,1,y
+978,creating insights,1,y
+981,creative mindset,1,y
+982,creative problem solver,1,y
+984,creative solutions,1,
+987,creatively visualize,1,y
+990,credit,1,
+992,credit risk insights,1,y
+993,credit risk management,1,y
+994,credit risk model,1,y
+996,credit risk modelling,1,y
+998,credit risk technologies,1,y
+1013,cross-device graph,1,y
+999,credit score modelling,1,y
+1000,credit scoring,1,y
+1001,crf,1,y
+1002,critical analysis,1,y
+1005,critique,1,
+1007,crop placement,1,
+1008,cross,1,
+1009,cross & up sell,1,
+1011,cross-analyze data,1,y
+1012,cross-channel spend allocation,1,y
+894,configuring,1,
+889,conditional probability,1,y
+1058,customer retention,1,y
+886,conceptualize analyses,1,y
+756,code repository,1,
+761,codebases,1,y
+762,codes,1,y
+765,coding practices,1,y
+766,coding processes,1,y
+767,coding skills,1,y
+770,cognitive analytics,1,y
+771,cognitive performance,1,y
+772,cognitive science,1,y
+773,cognitive services,1,y
+775,cognitive systems,1,y
+776,cognos bi,1,y
+777,cohort analysis,1,
+784,collaborative mind-set,1,y
+785,collaborative mindset,1,y
+786,collaborative technical,1,y
+787,collaborative work,1,y
+791,collegial,1,
+792,color balance,1,y
+793,column stores,1,y
+794,columnar data warehouse,1,y
+795,combining,1,
+797,command-line,1,y
+755,code quality,1,y
+754,code management,1,y
+753,code libraries,1,y
+724,cloud applications,1,
+710,clinical development process,1,y
+711,clinical implementation,1,
+712,clinical insights,1,y
+713,clinical practice,1,y
+716,clinical science,1,y
+717,clinical studies,1,y
+718,clinical supply chain management,1,y
+720,clojure,1,
+722,cloud administration,1,y
+723,cloud analytics infrastructure,1,y
+725,cloud architect,1,y
+746,clustering algorithms,1,y
+726,cloud components,1,y
+727,cloud composer/,1,y
+730,cloud engineering,1,y
+732,cloud ml,1,y
+735,cloud solutions,1,y
+738,cloud technology,1,y
+739,cloud-,1,
+740,cloud-based applications,1,y
+741,cloud-plattformen,1,y
+742,cloudera,1,y
+799,commercial data,1,y
+800,commercial management,1,y
+801,commercial production databases,1,y
+869,computer vision paradigms,1,y
+852,computer applications,1,y
+853,computer computer science,1,y
+854,computer concepts,1,y
+856,computer gaming,1,y
+858,computer languages.,1,y
+863,computer simulation,1,y
+864,computer skills,1,y
+865,computer software,1,y
+866,computer validation,1,y
+868,computer vision development,1,y
+870,computer vison,1,y
+850,compute,1,y
+871,computerized data management,1,y
+872,computerized information systems,1,y
+874,computing framework,1,y
+875,computing normals,1,y
+876,computing performance statistics,1,y
+878,computing systems,1,
+879,concept,1,
+880,concept extraction,1,y
+883,conceptual,1,
+884,conceptual thinking,1,y
+851,compute infrastructure,1,y
+848,computational solutions,1,y
+802,commercial strategies,1,y
+824,competitive advantages,1,y
+803,commercialization,1,y
+805,commission,1,
+807,communicated,1,
+809,communicatieve,1,y
+815,communicative mindset,1,y
+818,company policy,1,
+820,compare,1,y
+821,comparing,1,
+822,compass,1,
+823,competencies,1,y
+825,competitor intelligence,1,y
+847,computational social science,1,y
+831,compliance audits,1,y
+832,computability,1,
+834,computation cluster,1,y
+836,computational analysis,1,y
+838,computational engineering,1,y
+839,computational linguistic,1,y
+840,computational linguistic theory,1,y
+844,computational optimisation,1,y
+845,computational packages,1,y
+846,computational performance,1,y
+1057,customer research,1,y
+1060,customer segmentation models,1,y
+707,clinical data analysis,1,y
+1282,data-,1,
+1324,database modelling,1,y
+1326,database query languages,1,y
+1327,database querying,1,y
+1328,database release,1,y
+1329,database schema,1,
+1330,database set-up,1,y
+1332,database structure,1,y
+1333,database study designs,1,y
+1338,databricks notebooks,1,y
+1340,dataflow & beam,1,y
+1341,datalab,1,y
+1342,datalake,1,y
+1343,datarobot,1,y
+1344,datascience,1,y
+1348,datastore,1,y
+1349,datavisualisation,1,y
+1350,dataviz,1,y
+1351,datos,1,
+1353,de-codification,1,y
+1354,deadlines,1,
+1356,debug,1,y
+1361,decision makers,1,y
+1363,decision modelling,1,y
+1321,database integration,1,y
+1318,database architectures,1,y
+1317,database applications,1,y
+1300,data-drivenness,1,y
+1284,data-based insights,1,y
+1285,data-centric,1,y
+1286,data-cleaning,1,y
+1289,data-driven analysis,1,y
+1290,data-driven applications,1,y
+1291,data-driven decision making,1,y
+1293,data-driven development,1,y
+1294,data-driven insight,1,y
+1297,data-driven solutions,1,y
+1299,data-driven systems,1,y
+1301,data-fueled solutions,1,y
+1315,data.,1,
+1302,data-informed mindset,1,y
+1304,data-led,1,y
+1305,data-minded,1,y
+1306,data-modeling,1,y
+1307,data-modelling,1,y
+1309,data-oriented programming languages,1,y
+1310,data-processing,1,y
+1312,data-sets,1,
+1313,data-structures,1,y
+1314,data-visualization,1,y
+1364,decision process,1,y
+1367,decision strategies,1,y
+1368,decision support,1,y
+1429,descriptive analytic,1,y
+1416,departmental procedures,1,
+1417,departments,1,
+1418,dependency parsers,1,y
+1420,deployable,1,y
+1422,deploying code,1,y
+1423,deploying models,1,y
+1425,deployment methods,1,y
+1426,deployment pipelines,1,y
+1427,descriptive,1,y
+1428,descriptive analysis,1,y
+1432,design algorithms,1,y
+1412,democratize data,1,y
+1433,design data frames,1,y
+1434,design domain-driven,1,y
+1435,design domain-driven event models,1,y
+1438,design planning,1,y
+1439,design principles,1,y
+1440,design processes,1,y
+1441,design quality,1,y
+1443,design thinking methods,1,y
+1444,design-thinking,1,y
+1445,designed,1,
+1415,dendrograms,1,y
+1411,demand/supply planning,1,y
+1371,decision tree models,1,y
+1392,deep-dive analysis,1,y
+1374,decisioning,1,
+1376,deduplication/,1,y
+1378,deep belief networks,1,y
+1379,deep data analysis,1,y
+1381,deep learning algorithm,1,y
+1384,deep learning data,1,y
+1386,deep learning libraries,1,y
+1388,deep learning.,1,y
+1389,deep neural network architectures,1,y
+1391,deep reinforcement learning,1,y
+1393,deeplearning4j,1,y
+1410,demand/,1,
+1394,delegating,1,y
+1399,delivering insights,1,y
+1401,delivery data,1,y
+1402,delivery logic,1,y
+1403,delivery methods,1,y
+1404,delivery models,1,y
+1405,delivery organization,1,y
+1406,demand,1,y
+1408,demand modelling,1,y
+1409,demand planning,1,y
+1283,data-analytics,1,y
+1280,data workflow,1,y
+1064,customer stories,1,y
+1278,data warehousing infrastructure,1,y
+1120,data crunching,1,y
+1121,data curation,1,y
+1122,data dashboards,1,y
+1123,data delivery,1,y
+1124,data design,1,y
+1127,data distributions,1,y
+1128,data domains,1,
+1129,data driven,1,
+1130,data driven insights,1,y
+1131,data ecosystem,1,y
+1133,data environment,1,y
+1134,data etl,1,y
+1140,data formats,1,y
+1141,data formulation,1,y
+1143,data fusion,1,y
+1149,data infrastructures,1,y
+1152,data insight,1,y
+1154,data instrumentation,1,y
+1156,data integrator,1,y
+1158,data interpretation,1,y
+1159,data interrogation technologies,1,y
+1160,data intuition,1,y
+1163,data lifecycle,1,y
+1119,data creation,1,y
+1118,data craft,1,y
+1117,data conformance strategy,1,y
+1091,data acquisitions,1,y
+1067,customer support experience,1,y
+1068,customer value optimization,1,y
+1070,customer-interfacing,1,y
+1071,customization,1,y
+1073,cyber-security,1,y
+1074,cybernetics,1,y
+1076,cypher,1,y
+1079,dart,1,y
+1083,dashboard development,1,y
+1084,dashboarding,1,y
+1094,data analysis libraries,1,y
+1116,data conceptualization,1,y
+1095,data analysis model,1,y
+1096,data analysis structures,1,y
+1097,data analytic,1,y
+1098,data analytical,1,y
+1106,data browsing,1,y
+1107,data carpentry,1,y
+1108,data cataloguing,1,y
+1109,data center,1,y
+1110,data centric,1,y
+1113,data clustering,1,y
+1164,data linkage,1,y
+1165,data logging,1,y
+1167,data management systems,1,y
+1249,data storytelling,1,y
+1216,data quality metrics.,1,y
+1218,data re-structuring,1,y
+1221,data resources,1,y
+1222,data review,1,y
+1225,data science applications,1,y
+1227,data science innovation,1,y
+1231,data science services,1,y
+1232,data science strategy,1,y
+1236,data segmentation,1,y
+1245,data st,1,y
+1252,data streams,1,y
+1213,data qa,1,y
+1255,data structures.,1,y
+1256,data summarization,1,y
+1258,data tables,1,y
+1259,data team,1,y
+1261,data testing,1,y
+1262,data tools,1,y
+1264,data transformations,1,y
+1265,data understanding,1,y
+1271,data visualization software,1,y
+1273,data vizualisations,1,y
+1215,data quality assurance,1,y
+1211,data protection management,1,y
+1169,data mapping,1,y
+1190,data platforms,1,y
+1170,data marts,1,y
+1172,data methods,1,y
+1174,data mining algorithms,1,y
+1175,data mining theory,1,y
+1177,data model design,1,y
+1180,data modelling technologies,1,y
+1181,data modelling/,1,y
+1187,data piping,1,y
+1188,data planning,1,y
+1189,data platform,1,y
+1191,data pre-processing tools,1,y
+1209,data projects,1,y
+1192,data prep,1,y
+1196,data problems,1,y
+1199,data processing language,1,y
+1200,data processing pipelines,1,y
+1201,data processing software,1,y
+1202,data processing systems,1,y
+1203,data processing technologies,1,y
+1204,data product,1,y
+1207,data programming,1,y
+1208,data project management,1,y
+708,clinical data management,1,y
+706,clinical collaboration,1,y
+2866,operating model,1,y
+194,analytical mindset,1,y
+242,anaphora,1,y
+243,animation,1,y
+244,annotated code,1,y
+245,annotation,1,y
+246,anomalies,1,y
+249,apache,1,y
+250,apache airflow,1,y
+253,api integration,1,y
+255,app,1,y
+256,applicablepharma,1,y
+259,application integration,1,y
+260,application.,1,y
+265,applied calculus,1,y
+266,applied customer,1,y
+268,applied machine learning,1,y
+271,applied maths,1,y
+272,applied physics,1,y
+276,appropriate testing,1,y
+277,apps,1,y
+279,arcgis,1,y
+280,architect,1,y
+283,architectural design,1,y
+284,architectural plans,1,y
+239,analyzes,1,y
+237,analyze web scale data,1,y
+234,analytics-driven,1,y
+218,analytical/,1,y
+196,analytical model development,1,y
+199,analytical operations,1,y
+201,analytical platforms,1,y
+203,analytical problems,1,y
+205,analytical products,1,y
+206,analytical programming language,1,y
+208,analytical reports,1,y
+211,analytical strategies,1,y
+213,analytical technologies,1,y
+215,analytical thinker,1,y
+219,analytically curious,1,y
+233,analytics).,1,y
+220,analyticalmethods,1,y
+223,analytics architecture,1,y
+224,analytics data,1,y
+225,analytics implementation,1,y
+227,analytics methods,1,y
+228,analytics models,1,y
+229,analytics notebooks,1,y
+230,analytics platforms,1,y
+231,analytics services,1,y
+232,analytics technologies,1,y
+287,architecture design,1,y
+288,architecture.,1,y
+290,archive,1,y
+347,automated machine learning,1,y
+336,automate scoring,1,y
+337,automated algorithms,1,y
+339,automated anomaly detection systems,1,y
+340,automated classification,1,y
+341,automated data collection,1,y
+342,automated data extraction,1,y
+343,automated data pipelines,1,y
+344,automated data workflows,1,y
+345,automated document generation,1,y
+346,automated job,1,y
+349,automated recommendations,1,y
+332,authoring,1,y
+350,automated testing,1,y
+351,automated tools,1,y
+352,automatic classification,1,y
+355,automating analysis,1,y
+357,automation technologies,1,y
+358,automation.,1,y
+359,automations,1,y
+360,automatization,1,y
+361,automatize analysis,1,y
+362,automl,1,y
+334,autocad,1,y
+331,audit services,1,y
+291,arithmetic,1,y
+311,asset pricing,1,y
+292,articles,1,y
+295,articulation,1,y
+296,artifact,1,y
+299,artificial intelligence models,1,y
+301,asian languages,1,y
+302,ask questions,1,y
+303,assembly,1,y
+305,assess impact,1,y
+306,assessing risk,1,y
+310,asset management business,1,y
+312,asset protection,1,y
+328,audience segmentation,1,y
+313,asset qualifications,1,y
+314,assets,1,y
+315,assignment,1,y
+316,association,1,y
+317,association rule mining,1,y
+320,assurance,1,y
+321,astigan,1,y
+323,attention to detail..,1,y
+325,attribute generation,1,y
+326,attributes,1,y
+195,analytical model,1,y
+193,analytical mind-set,1,y
+364,automotive data,1,y
+189,analytical machine learning,1,y
+50,ad hoc data extract,1,y
+51,ad hoc reporting,1,y
+53,ad metrics,1,y
+54,ad spend,1,y
+57,ad-hoc,1,y
+62,adapting,1,y
+63,administer,1,y
+64,administrating,1,y
+65,administration,1,y
+69,advanced computing,1,y
+70,advanced functions,1,y
+72,adversarial networks,1,y
+76,advisory services,1,y
+77,advocacy,1,y
+78,advocate,1,y
+80,affiliates,1,y
+81,agent-based modelling,1,y
+86,agile approach,1,y
+88,agile delivery methods,1,y
+89,agile delivery process,1,y
+91,agile development mindset,1,y
+92,agile engineering,1,y
+96,agile methods,1,y
+47,activity,1,y
+45,active asset allocation,1,y
+41,action plans,1,y
+14,#NAME?,1,
+3,#NAME?,1,
+4,#NAME?,1,
+5,#NAME?,1,
+6,#NAME?,1,
+7,#NAME?,1,
+8,#NAME?,1,
+10,#NAME?,1,
+11,#NAME?,1,
+12,#NAME?,1,
+13,-waste-,1,
+16,2d,1,
+37,achievement,1,
+18,3d,1,
+20,a/b,1,y
+22,ab testing,1,y
+23,abap,1,y
+24,abstract modeling,1,y
+25,acceleration time series,1,y
+29,access protocols,1,
+30,account management,1,y
+34,accounting principles,1,
+36,accuracy.,1,
+97,agile principles,1,y
+98,agile procedures,1,y
+101,agile software processes,1,y
+168,analytic functions,1,y
+147,ambitious mindset,1,y
+150,analyse matching,1,y
+152,analysed,1,
+157,analysis algorithms,1,y
+158,analysis pipelines,1,y
+159,analysis ratios,1,
+160,analysis services,1,
+161,analysis software,1,
+162,analysis techniques,1,
+166,analyst notebook,1,
+170,analytical activities,1,
+144,alignment,1,
+171,analytical applications,1,
+173,analytical batch processing,1,y
+177,analytical competencies,1,
+178,analytical data processing,1,y
+179,analytical data stores,1,y
+180,analytical datasets,1,y
+181,analytical design,1,y
+182,analytical development,1,y
+185,analytical expertise,1,y
+187,analytical function,1,
+145,alternative,1,
+142,algorithms).,1,
+102,agile structure,1,y
+117,ai solutions,1,y
+104,agile workspace design,1,y
+105,agile/,1,y
+106,agiler,1,y
+107,agriculture,1,y
+109,ai algorithms,1,y
+110,ai architectures,1,y
+111,ai driven,1,
+112,ai literacy,1,y
+113,ai methods,1,y
+116,ai procedures,1,y
+119,ai-driven,1,
+141,algorithms operations,1,y
+122,alcance,1,
+123,alerting,1,
+128,algorithm performance metrics,1,y
+129,algorithm programming,1,y
+130,algorithmes,1,
+132,algorithmic coding,1,y
+136,algorithmic r&d,1,y
+137,algorithmic research,1,y
+139,algorithms development,1,y
+140,algorithms implementation,1,y
+363,automotive,1,
+366,automotive spice,1,
+704,clients,1,
+528,business cycle,1,
+578,business understanding,1,
+580,business-,1,
+581,business-like,1,
+582,business.,1,y
+583,businesses,1,
+585,businesss data,1,
+586,businesss strategies,1,
+588,c derivatives,1,y
+590,c#.,1,y
+591,c#/++,1,y
+596,cafee,1,y
+602,calculating,1,
+603,calculation,1,
+605,calibrating response models,1,
+606,calibration,1,
+607,campaign analytics,1,y
+608,campaign management,1,y
+609,campaign optimization,1,y
+611,capabilities,1,
+612,capacity planning,1,y
+614,capital ratios,1,
+615,captioning,1,
+618,career development,1,y
+577,business thought leadership,1,y
+576,business systems analysis,1,y
+575,business systems,1,y
+553,business models,1,y
+534,business discovery,1,y
+535,business english,1,y
+537,business flow,1,y
+538,business functions,1,y
+539,business governance,1,y
+540,business health,1,y
+543,business information systems,1,y
+546,business intelligent,1,y
+549,business leadership,1,y
+550,business management,1,y
+555,business operation,1,y
+570,business recommendation,1,y
+556,business operations,1,y
+557,business partners,1,y
+559,business performance improvement,1,y
+560,business performance metrics,1,y
+562,business plan,1,y
+563,business planning,1,y
+565,business process analysis,1,y
+566,business process improvement,1,y
+568,business products,1,
+569,business proposals,1,y
+620,case,1,
+624,catalog quality,1,y
+625,categorization,1,y
+685,cleanup,1,y
+667,ci/cd,1,y
+668,ci/cd pipeline,1,y
+669,ciencia,1,
+671,claims data,1,
+672,classical regression,1,y
+673,classificatie,1,y
+675,classification algorithms,1,y
+677,classifiers,1,y
+678,classify,1,y
+684,cleansing data,1,y
+688,clementine,1,
+665,churn rates,1,y
+689,clever,1,y
+690,clickstream data,1,y
+691,clickstream diagram,1,y
+692,client demands,1,y
+693,client facing,1,
+694,client impact,1,
+698,client relationship building,1,y
+699,client relationship management,1,y
+702,client services,1,
+703,client systems,1,
+666,ci,1,
+664,churn prevention,1,y
+627,causal attribution,1,y
+646,channel management,1,y
+628,causal forecasting,1,y
+630,causal inference methods,1,y
+631,causal inference.motivation,1,y
+632,causal modelling,1,y
+634,cause,1,
+635,causes,1,
+636,ccd,1,y
+637,cd,1,y
+640,certifications,1,
+641,chain,1,
+647,characterization,1,
+663,churn prediction model,1,y
+648,charting,1,
+650,chatbot,1,y
+652,chem,1,
+653,chemical,1,
+654,chemical development,1,y
+657,choice,1,
+658,choice architecture,1,y
+659,churn,1,
+660,churn analysis,1,y
+661,churn modeling,1,y
+531,business decision-making,1,y
+527,business consulting,1,y
+371,averages,1,
+526,business cases,1,
+410,behavioral segmentation frameworks,1,y
+411,behaviour,1,
+412,behaviour-based,1,
+413,behavioural analytics,1,y
+415,behavioural segmentation,1,y
+416,benchmarking,1,
+418,best practice,1,
+419,better,1,
+420,betting,1,
+421,bid requests,1,
+425,big data analysis,1,y
+426,big data analytic,1,y
+428,big data assets,1,y
+429,big data engineering,1,y
+431,big data infrastructure,1,y
+433,big data pipelines,1,y
+434,big data platforms,1,
+435,big data processing,1,y
+437,big data set,1,
+438,big data solutions,1,y
+440,big data system,1,
+441,big data system architectures,1,y
+442,big data systems,1,
+409,behavioral models,1,y
+406,behavior tracking,1,y
+405,behavior monitoring,1,y
+386,bash shell scripting,1,y
+372,aviation,1,y
+373,aws,1,y
+374,azure machine learning studio,1,y
+376,back-end development,1,y
+377,backend engineering,1,y
+378,backtests,1,
+379,bag-of-features,1,
+381,balance sheet,1,y
+383,banking analytics,1,y
+384,base sas,1,y
+387,batch processing,1,y
+404,bechtel-captured engineering,1,y
+388,batch-mode,1,y
+389,bayesian,1,y
+390,bayesian analysis,1,y
+391,bayesian deep learning,1,y
+395,bayesian modeling,1,y
+396,bayesian models,1,y
+399,bayesian statistical methods,1,y
+401,bayesian techniques,1,y
+402,bayesian tests,1,y
+403,bayesian time series,1,y
+444,big data technology,1,y
+445,big data workflows,1,y
+446,big query,1,y
+500,brewing,1,y
+487,blogging,1,
+489,blue prism,1,y
+490,board game nights,1,
+491,body language,1,y
+492,bold decisions,1,y
+494,boosting trees,1,y
+495,boxing,1,
+497,brainstorming,1,
+498,break down,1,
+499,breeze,1,
+501,browsing history,1,
+484,blockchain data,1,y
+503,bug tracking,1,y
+504,bugzilla,1,
+506,build algorithms,1,y
+507,build models,1,y
+508,build processes,1,y
+510,build solutions,1,y
+512,building data pipelines,1,y
+514,building packages,1,y
+517,business admin,1,
+519,business administrations,1,
+485,blockchain.,1,y
+483,blockchain analytics,1,y
+450,bio,1,
+466,biomarker validation,1,y
+451,bio-informatics,1,y
+452,biochemistry,1,y
+453,bioconductor,1,y
+454,bioinformatic,1,y
+456,bioinformatics algorithms,1,y
+458,biological crop protection,1,y
+460,biological insights,1,y
+462,biomarker,1,
+464,biomarker evaluation,1,y
+465,biomarker profiles,1,y
+467,biomedical,1,
+481,bitbucket,1,
+468,biomedical data,1,y
+470,biomedical imaging datasets,1,y
+472,biomedical knowledge,1,y
+473,biomedical ontologies,1,y
+474,biometric sensor,1,y
+475,biometric sensor technology,1,y
+476,biometrics,1,y
+477,biostatistical,1,y
+478,biostatisticians,1,y
+480,biotech,1,y
+1448,detail-oriented,1,
+1449,detailed analysis,1,y
+1450,detect,1,
+2337,lean development,1,y
+2389,live sports,1,
+2391,log parsing,1,y
+2396,logics,1,y
+2397,logistic,1,
+2400,logistics data,1,
+2401,logistics operations,1,y
+2402,longitudinal,1,
+2403,longitudinal data analysis,1,y
+2404,loss prevention,1,
+2405,loyalty,1,
+2407,ltv,1,
+2408,ltv.,1,
+2410,m.s,1,
+2412,machine intelligence,1,y
+2413,machine learned models,1,y
+2418,machine learning libraries,1,y
+2419,machine learning modeling,1,y
+2420,machine learning modelling,1,y
+2422,machine learning research,1,y
+2424,machine learning theory,1,y
+2426,machine reading,1,y
+2427,machine reasoning,1,y
+2428,machine sensor,1,
+2388,live model monitoring,1,y
+2386,literature reviews,1,
+2384,listen,1,
+2363,lifecycle thinking,1,y
+2343,learning algorithms,1,y
+2344,learning mindset,1,y
+2345,learning nlp,1,y
+2352,lidar,1,y
+2353,lidar system,1,y
+2354,lidar system performance,1,y
+2359,life-cycle-management,1,y
+2360,life-science,1,y
+2361,lifecycle,1,y
+2362,lifecycle management,1,y
+2364,lifetime value,1,y
+2383,lisp languages,1,y
+2365,lifetime value estimation,1,y
+2366,lifetime value model,1,y
+2367,lift modeling,1,y
+2370,linear analysis,1,y
+2371,linear and,1,y
+2375,linear/,1,
+2378,linking,1,
+2379,linking insights,1,y
+2381,liquidity coverage ratios,1,y
+2382,liquidity risk,1,y
+2429,machine translation,1,y
+2431,machine-,1,
+2434,machines,1,
+2503,marketplace integrity,1,
+2485,market insight,1,y
+2489,marketing attribution,1,y
+2491,marketing communications,1,y
+2492,marketing management,1,y
+2493,marketing mix analysis,1,y
+2495,marketing mix optimization,1,y
+2496,marketing modeling,1,y
+2499,marketing sciences,1,
+2500,marketing software,1,
+2501,marketing strategies,1,
+2508,matching,1,
+2483,market data,1,
+2509,materials,1,
+2513,mathematical competence,1,y
+2517,mathematical intuitions,1,y
+2518,mathematical logic,1,y
+2520,mathematical modeling,1,y
+2523,mathematical optimization,1,y
+2525,mathematical sciences,1,y
+2526,mathematical techniques,1,y
+2527,mathematically,1,y
+2529,mathematics.,1,y
+2484,market entry,1,
+2478,mariadb,1,y
+2435,machines learning,1,y
+2453,managed data stack,1,y
+2436,macroeconomic forecasting,1,y
+2437,macroeconomics,1,y
+2438,macros,1,y
+2442,maintaining models,1,y
+2443,maintaining training,1,y
+2445,maintenance planning,1,y
+2446,making decisions,1,y
+2447,malware,1,y
+2449,manage customer expectations,1,y
+2451,manage projects,1,y
+2454,managed detection,1,y
+2477,maps data,1,y
+2456,management engineering,1,y
+2457,management science,1,y
+2458,managerial,1,
+2459,manages,1,
+2460,manages change,1,y
+2462,managing customer expectations,1,y
+2463,managing modeling,1,y
+2471,manipulations,1,
+2474,map reduce framework,1,y
+2476,mapr,1,y
+2338,leapfrog,1,
+2335,leadership mindset,1,y
+2534,matrix,1,y
+2332,lda/,1,y
+2203,interest rate risk management,1,y
+2205,interfacing,1,y
+2207,internal audit,1,
+2208,internal decision-making,1,
+2209,internal functions,1,
+2211,international conferences,1,
+2212,international nights,1,
+2213,internet,1,
+2214,internet advertising,1,y
+2215,internet of,1,
+2216,internet web transactions,1,
+2217,internet-scale applications,1,y
+2218,interoperability,1,y
+2220,interpersonnal skills,1,y
+2227,interpretive,1,
+2229,interviewing,1,
+2230,interviews,1,
+2232,inventory,1,
+2233,inventory forecasting,1,y
+2234,inventory management,1,y
+2235,inventory models,1,y
+2237,investigating,1,
+2238,investigation,1,y
+2202,interest rate,1,
+2201,interactive visualization,1,y
+2200,interactive visualisation,1,y
+2173,installing,1,
+2158,innovatively,1,
+2159,inquisitive,1,
+2161,insight analysis,1,y
+2163,insightful,1,y
+2164,insightful analysis,1,y
+2166,insights presentations,1,y
+2167,insights.,1,y
+2170,inspire confidence,1,y
+2171,inspires,1,
+2172,inspiring,1,y
+2176,insurance analytics,1,y
+2199,interactive documents,1,y
+2180,integrated algorithms,1,y
+2182,integrating data,1,y
+2184,integration services,1,
+2185,integrative analysis,1,y
+2190,intellectual thought processes,1,y
+2191,intellectually curious,1,y
+2193,intelligent control systems,1,y
+2194,intelligent experiences,1,y
+2195,intelligent scene recognition,1,y
+2196,inter process communication,1,y
+2239,investigative,1,y
+2241,investment decisions,1,y
+2242,investment research,1,y
+2313,lagrange multipliers,1,y
+2296,knowledge graph systems,1,y
+2298,knowledge induction,1,y
+2300,knowledge management system,1,y
+2301,knowledge presentation,1,y
+2303,knowledge transfer,1,y
+2304,korean,1,y
+2306,kpi,1,y
+2309,lab,1,
+2311,laboratory analytical databases,1,y
+2312,laboratory parameters,1,
+2314,lambda,1,y
+2291,knn,1,y
+2315,landing page optimization,1,y
+2316,landscape,1,y
+2318,language classes,1,y
+2319,language courses,1,y
+2320,language modeling,1,y
+2324,large scale,1,
+2325,large-,1,
+2327,large-scale analysis,1,y
+2329,latent factor models,1,y
+2330,laws,1,
+2295,knowledge graph inference,1,y
+2290,knime,1,y
+2243,investment strategies,1,y
+2267,job search,1,
+2245,iot,1,y
+2246,iot devices,1,y
+2247,ip,1,
+2248,ipython,1,y
+2249,ir,1,
+2252,iteration,1,y
+2255,iterative process,1,
+2257,j2ee,1,y
+2258,jamppers,1,y
+2265,job management,1,y
+2268,journeys,1,
+2289,kkt,1,y
+2269,jquery,1,y
+2272,json-like,1,y
+1,#NAME?,1,
+2274,judgement,1,
+2275,judgment,1,
+2278,jupyter notebook,1,y
+2284,keboola,1,y
+2286,kernel density estimation,1,y
+2287,key,1,
+2288,kit,1,
+2533,matrices,1,
+2535,matrix algebra,1,y
+1453,dev ops,1,y
+2698,monetization,1,
+2738,music,1,
+2739,mvc,1,y
+2743,named-entity matching,1,y
+2744,named-entity recognition,1,y
+2745,nano-,1,
+2746,narrative,1,
+2747,natural,1,
+2749,natural language process,1,y
+2751,natural language processing algorithms,1,y
+2752,natural language processing technology,1,y
+2755,negocio,1,
+2757,negotiation,1,y
+2758,negotiator,1,y
+2759,ner,1,y
+2763,network architectures,1,y
+2765,network diagram,1,y
+2767,network modelisation,1,y
+2769,network orchestration,1,y
+2770,network real estate reorganization,1,y
+2772,network.,1,
+2776,neural computing,1,y
+2777,neural net,1,y
+2783,next,1,
+2737,munging data,1,y
+2736,multivariate/a-b testing,1,y
+2735,multivariate time-series data,1,y
+2717,ms access,1,
+2702,monitor performance,1,y
+2703,monitor pricing,1,y
+2705,monitoring  monitoring,1,y
+2706,monitoring infrastructure,1,y
+2707,monte carlo simulation,1,y
+2708,monte carlo simulations,1,y
+2709,monte-carlo simulation,1,y
+2712,motivates,1,y
+2715,mr,1,
+2716,ms,1,
+2718,ms excel,1,y
+2733,multivariate test design,1,y
+2719,mthodes,1,
+2722,multi-regression algorithms,1,y
+2723,multi-stream ingest,1,y
+2724,multi-task,1,
+2725,multi-task learning,1,y
+2726,multidisciplinary,1,y
+2727,multinomial logistic regression,1,y
+2730,multivariable calculus,1,y
+2731,multivariate analysis,1,y
+2732,multivariate models,1,y
+2784,nextgen cdms,1,y
+2785,nfv,1,y
+2786,ngs sequencing technologies,1,y
+2846,online learning,1,
+2832,official language,1,
+2833,offline validation,1,
+2834,oil &,1,
+2835,ols,1,
+2836,omics analysis,1,y
+2838,omnichannel management,1,y
+2839,on-boarding,1,y
+2840,on-site personalization,1,
+2843,online,1,
+2844,online deployment,1,
+2847,online-browse,1,
+2828,observational research strategies,1,y
+2848,ontological knowledge graphs,1,y
+2851,ontology development,1,y
+2852,op,1,
+2855,open dialogue,1,
+2856,open semantic search,1,y
+2858,open source libraries,1,y
+2859,open source technologies,1,y
+2860,open-minded,1,y
+2862,open-sourcing code,1,y
+2865,operating medical,1,y
+2830,ocr,1,y
+2826,observational,1,
+2790,node,1,
+2807,numerical model building,1,y
+2791,node.js,1,y
+2792,non-linear optimization,1,y
+2793,non-linear programming,1,y
+2794,non-linear regression,1,y
+2796,normalization,1,y
+2798,normalizing,1,
+2801,npu,1,y
+2802,number theory,1,
+2805,numerical libraries,1,y
+2806,numerical methods,1,
+2808,numerical sense,1,y
+2825,observation data enrichment,1,y
+2809,numerical skills,1,y
+2811,nvidia,1,y
+2814,object detection models,1,y
+2815,object model analysis,1,y
+2816,object oriented language,1,y
+2818,object oriented programming language,1,y
+2820,object-oriented programming,1,y
+2821,object-oriented programming language,1,y
+2822,object-oriented programming languages,1,y
+2823,objectives-driven mindset,1,y
+2701,monitor data integrity,1,y
+2697,molecular databases,1,y
+2536,maximization,1,
+2696,molecular biology experiments,1,y
+2570,medical knowledge,1,y
+2571,medical reports,1,y
+2572,medical risk profiling,1,y
+2573,medical science,1,y
+2574,medical technology,1,y
+2576,meet,1,
+2578,meet project deadlines,1,y
+2579,meeting deadlines,1,y
+2580,memory management,1,y
+2581,memory networks,1,y
+2585,merch,1,
+2586,merchant,1,
+2588,metabolomic,1,
+2590,methodical,1,
+2596,metrics development,1,y
+2597,micro-finance,1,y
+2598,micro-services,1,y
+2599,microbiome,1,y
+2600,microscopy images,1,y
+2601,microservice architecture,1,y
+2603,microsoft,1,y
+2607,minded,1,y
+2609,mindsetand,1,y
+2569,medical informatics,1,y
+2568,medical imaging data,1,y
+2567,medical imaging,1,y
+2551,meddra,1,y
+2537,mba,1,
+2538,mc,1,
+2539,mcmc algorithms,1,y
+2540,mdps,1,y
+2541,meaningful segmentation,1,y
+2545,measurement planning,1,y
+2546,measurement.,1,
+2547,measures,1,
+2549,mechanism design,1,y
+2550,mecnica,1,
+2553,media buying,1,
+2566,medical examination,1,y
+2554,media data,1,
+2555,media intelligence,1,y
+2556,media optimization,1,y
+2557,media outlets,1,
+2558,media plans,1,
+2560,medical adherence,1,y
+2562,medical applications,1,y
+2563,medical coding,1,y
+2564,medical data,1,y
+2565,medical devices,1,y
+2612,mixed media modeling,1,y
+2614,ml / dl algorithms,1,y
+2617,ml code,1,y
+2678,modeling process,1,y
+2664,model predictions,1,y
+2665,model production,1,y
+2666,model productization pipelines,1,y
+2667,model prototypes,1,y
+2669,model serving,1,y
+2672,model-based,1,y
+2673,model-building,1,y
+2675,modeling infrastructure,1,y
+2676,modeling methodologies,1,y
+2677,modeling pipelines,1,y
+2679,modeling software,1,y
+2662,model performance monitoring,1,y
+2681,modeling workflow,1,y
+2682,modeling.,1,y
+2685,modelling methods,1,y
+2686,modelling packages,1,y
+2687,modelling platform,1,y
+2688,modelling techniques,1,y
+2691,modern,1,y
+2692,modern programming language,1,y
+2693,modern programming languages,1,y
+2694,modlisation,1,y
+2663,model pipelines,1,y
+2661,model performance metrics,1,y
+2622,ml techniques,1,y
+2635,mobility data,1,y
+2623,ml technologies,1,y
+2624,ml tooling,1,y
+2625,ml tools,1,y
+2627,mllib,1,y
+2629,mobile app,1,y
+2630,mobile games,1,y
+2631,mobile gaming,1,y
+2632,mobile platforms,1,y
+2633,mobile signal processing,1,y
+2634,mobile solutions,1,y
+2637,model accuracy,1,y
+2658,model optimization,1,y
+2638,model architectures,1,y
+2640,model build,1,y
+2643,model cross validation,1,y
+2644,model data,1,y
+2645,model degradation,1,y
+2648,model developement,1,y
+2650,model evaluation,1,y
+2652,model hosting,1,y
+2653,model improvements,1,y
+2654,model maintenance,1,y
+2157,innovative thinking,1,y
+2154,innovation pricing,1,y
+2153,innovation forecasting,1,y
+1610,economic research,1,y
+1651,energy engineering,1,y
+1653,energy sector,1,
+1654,energy systems modelling,1,y
+1655,engage,1,
+1657,engagement modeling,1,y
+1658,engagement planning,1,y
+1662,engineer data,1,y
+1664,engineering management,1,y
+1665,engineering mathematics,1,y
+1669,english proficiency,1,y
+1670,english spoken,1,y
+1671,enhancement,1,
+1672,ensemble learning,1,y
+1675,enterprise applications,1,y
+1676,enterprise data,1,
+1678,enterprise data warehouse,1,y
+1679,enterprise data warehousing,1,y
+1680,enterprise information assets,1,y
+1681,enterprise knowledge base,1,y
+1683,entertainment,1,y
+1684,enthusiastic,1,y
+1685,entity extraction,1,y
+1690,entrepreneurial mindset,1,y
+1649,end point detection,1,y
+1648,encoder-decoder,1,y
+1647,encode data,1,y
+1628,electrical engineer,1,
+1614,edc,1,
+1618,eeg,1,
+1619,efficiency programs,1,
+1620,efficient,1,
+1621,efficient algorithms,1,y
+1622,ehr data,1,y
+1623,eider,1,
+1624,elastic net regularization for,1,y
+1625,elastic search,1,y
+1626,elasticsearch,1,y
+1630,electricity balancing,1,y
+1646,enablement services,1,y
+1632,electronic data capture,1,y
+1633,electronic trading,1,y
+1637,emotional intelligence,1,y
+1638,empathetic,1,y
+1639,empathic,1,y
+1640,empathy,1,y
+1642,employment,1,
+1643,employment business,1,y
+1644,empowerment,1,y
+1645,empresariales,1,y
+1692,enviroinsite,1,
+1695,environmental data management,1,y
+1696,epidemiologic studies,1,y
+1777,fedora,1,
+1759,extract insights,1,y
+1763,f#,1,y
+1765,factor,1,
+1767,fastai,1,y
+1768,fastscore,1,
+1770,feasibility,1,
+1771,feasibility analysis,1,y
+1772,feasibility assessment,1,y
+1775,federated analytics,1,y
+1776,federated learning,1,y
+1779,figures,1,
+1754,exploratory biomarker,1,y
+1780,file-based storage solutions,1,y
+1781,filter,1,
+1782,filtering,1,
+1784,finances,1,y
+1786,financial analytics,1,y
+1790,financial forecasting,1,y
+1795,financial market models,1,y
+1797,financial metrics,1,y
+1800,financial platforms,1,y
+1801,financial reports,1,y
+1757,export,1,
+1751,exploratory,1,
+1697,epidemiological,1,y
+1719,event models,1,y
+1700,error analysis,1,y
+1701,error measurements,1,y
+1703,estimating,1,
+1704,estrategia,1,y
+1705,ethical,1,y
+1709,etl processen,1,y
+1710,etl processes,1,y
+1711,etl tools,1,y
+1713,european languages,1,y
+1717,evaluation data sets,1,y
+1721,event-based analytics,1,y
+1750,explorative analysis,1,y
+1722,eventbased system design,1,y
+1725,evidence generation strategies,1,y
+1726,evolution,1,
+1727,evolutionary,1,
+1729,executing,1,
+1733,experiences,1,
+1739,experimental psychology,1,y
+1746,expert,1,
+1747,explain,1,
+1749,exploration.design,1,y
+1611,economic trends,1,y
+1607,econometric models,1,y
+2150,innovated,1,y
+1606,econometric,1,y
+1492,digital media data,1,
+1493,digital pathology,1,y
+1494,digital pathology biomarker development,1,y
+1495,digital solutions,1,
+1497,digital touchpoint efficiency measurement,1,y
+1498,digital transformation,1,y
+1499,digital use,1,
+1501,digitalization,1,
+1502,digitalizing,1,
+1503,dimension,1,
+1504,dimension reduction,1,y
+1505,direct response marketing,1,y
+1506,direct response marketing analysis,1,y
+1507,directed,1,
+1508,disambiguation,1,y
+1509,discover patterns,1,y
+1510,discovering,1,
+1512,discrete event,1,y
+1513,discrete event simulation,1,y
+1514,discrete math,1,y
+1515,discrete mathematics,1,y
+1516,discrete-time signal processing,1,y
+1518,disintermediation,1,y
+1491,digital media,1,
+1489,digital map-making,1,y
+1488,digital industry,1,y
+1473,diagnosis,1,
+1454,dev ops.ability,1,y
+1458,develop strategies,1,
+1460,developing algorithms,1,y
+1461,developing analytics,1,y
+1462,developing insights,1,y
+1464,developing optimization algorithms,1,y
+1465,developing reports,1,y
+1466,developing response models,1,y
+1467,developing tracking,1,y
+1470,device drivers,1,
+1474,diagnostic,1,
+1486,digital hardware architectures,1,y
+1475,diagnostic product development,1,y
+1476,diagnostic strategies,1,y
+1477,dictionaries,1,
+1479,digital advertising,1,y
+1480,digital analytics,1,y
+1481,digital customer capability,1,y
+1482,digital data,1,
+1483,digital data management,1,y
+1484,digital design,1,y
+1485,digital engagement,1,y
+1519,dispatch,1,
+1523,distributed,1,
+1524,distributed algorithms,1,y
+1589,dvcs,1,
+1573,drawing conclusions,1,y
+1574,drawing insights,1,y
+1575,drilling,1,
+1576,drive insight,1,
+1577,drive insights,1,y
+1578,driven,1,
+1579,driving,1,y
+1583,druid,1,y
+1586,duration analysis,1,y
+1588,dv,1,
+1590,dynamic,1,
+1569,domo,1,
+1593,dynamic programming,1,y
+1594,dynamics,1,y
+1595,dynet,1,
+1597,e-commerce analytics,1,y
+1598,e-commerce conversion,1,
+1599,e-commerce-,1,
+1601,e-data processing,1,y
+1602,e-mails,1,
+1603,earth science,1,y
+1604,ec,1,
+1572,drawing,1,y
+1568,domains,1,
+1525,distributed analytics,1,y
+1544,distributional semantics,1,y
+1527,distributed computing platforms,1,y
+1530,distributed data computing,1,y
+1531,distributed data lake,1,y
+1534,distributed environment,1,y
+1535,distributed environments,1,y
+1536,distributed graphs,1,y
+1537,distributed machine learning,1,y
+1539,distributed software,1,y
+1540,distributed system,1,y
+1543,distribution analysis,1,y
+1546,divisional strategy,1,y
+1567,domain-knowledge,1,y
+1550,dmm documents,1,y
+1553,docker-container,1,y
+1555,document clustering,1,y
+1556,document data integration,1,y
+1557,document indexing,1,y
+1558,document parsing,1,y
+1559,document research,1,y
+1560,document semantic,1,y
+1563,documenting sops,1,y
+1566,domain models,1,y
+1802,financial resources,1,y
+1803,financial risk,1,y
+1804,financial risk models,1,y
+1805,financial sector,1,y
+2012,human centred design principles,1,y
+2016,human resourcing,1,
+2017,human-in-the-loop,1,
+2018,human-to-human communications,1,y
+2019,humanities,1,
+2020,humility,1,y
+2021,hyper-,1,
+2023,hyperparameters,1,y
+2027,hypothesis analysis,1,y
+2030,hypothesis validation,1,y
+2031,ibm data miner,1,y
+2032,ibm i2,1,y
+2034,ic,1,y
+2035,ic.mobile,1,y
+2036,icds,1,y
+2037,ice skating,1,y
+2040,idea,1,y
+2046,iinformatics,1,y
+2047,illegal mining,1,y
+2049,image analysis,1,y
+2050,image analytics,1,y
+2051,image classification,1,y
+2053,image generation,1,y
+2011,"html5,",1,y
+2009,hr,1,
+2008,horse racing,1,y
+1990,health sciences,1,y
+1971,hacking,1,y
+1973,hadoop architecture,1,y
+1974,handling,1,y
+1976,hardware systems,1,y
+1977,hardware.,1,y
+1982,health architecture,1,y
+1984,health check,1,y
+1985,health cloud,1,y
+1986,health data.,1,y
+1989,health outcomes evaluation,1,y
+1991,health services research,1,y
+2007,home furnishing,1,y
+1994,healthcare data,1,y
+1995,healthcare information protocols,1,y
+1996,heatmap,1,y
+1997,heavy,1,
+1998,hedging strategies,1,y
+1999,heuristic,1,y
+2002,high availability,1,
+2003,high frequency time series,1,y
+2004,hiring,1,
+2005,historical data,1,
+2054,image management,1,y
+2055,image mining,1,y
+2058,image search,1,y
+2127,information infrastructures,1,y
+2105,industrial research,1,y
+2106,industrial systems,1,y
+2107,industrialise,1,
+2110,industry knowledge,1,y
+2111,infer,1,y
+2113,inference data pipelines,1,y
+2118,influencing skills,1,y
+2119,inform,1,
+2122,informatics systems,1,y
+2124,information analytics,1,y
+2129,information platforms,1,y
+2102,industrial development,1,y
+2130,information processing,1,y
+2134,information strategy,1,y
+2135,information system,1,y
+2139,information visualisation,1,y
+2140,informing,1,
+2141,infraestructura empresarial,1,y
+2142,infrastructure bigdata,1,y
+2144,infrastructure management,1,y
+2145,infrastructures,1,
+2147,ingesting data,1,y
+2104,industrial experience,1,y
+2099,induction,1,
+2059,image semantic,1,y
+2074,impactfull,1,
+2060,image super-resolution and denoising,1,y
+2061,image/speech processing,1,y
+2063,images,1,
+2064,imaginative,1,y
+2065,imaging,1,
+2066,imaging algorithms,1,y
+2068,imaging pipeline,1,y
+2069,immunology,1,y
+2071,impact driven,1,y
+2073,impactful outcomes,1,
+2077,implementacin,1,
+2098,indicadores,1,
+2078,implementar,1,y
+2080,implementation documentation,1,y
+2084,implementing algorithms,1,y
+2085,implementing models,1,y
+2086,implements,1,
+2090,imputations,1,y
+2091,in-memory storage,1,y
+2092,incident response,1,y
+2094,incremental - response modeling,1,y
+2095,incubation,1,y
+1970,h2o,1,y
+1969,h20,1,y
+1968,h&e,1,
+1859,game theory,1,y
+1848,front end data,1,y
+1849,fscp,1,
+1850,full,1,
+1851,full lifecycle processes,1,y
+1852,functional code,1,y
+1854,funding,1,
+1855,funding optimization,1,y
+1856,funnel optimization,1,y
+1857,futures,1,
+1858,game metrics.,1,y
+1861,gardening,1,
+1844,fraud prevention,1,y
+1862,gas exploration,1,y
+1864,gaussian processes,1,y
+1866,general,1,
+1868,generalised linear models,1,y
+1869,generalization,1,y
+1870,generalized additive models,1,y
+1871,generalized boosted models,1,y
+1872,generalized linear models,1,y
+1874,generate hypotheses,1,y
+1876,generating insights,1,y
+1846,frequency-domain,1,y
+1843,fraud patterns,1,y
+1878,genetic,1,y
+1821,follow up procedures,1,y
+1807,financial statement,1,y
+1808,financial statement close process,1,y
+1811,financing,1,y
+1813,firmware development,1,y
+1814,fisher vector,1,y
+1815,flask,1,y
+1816,flexibility,1,y
+1818,flow,1,
+1819,flowline,1,y
+1820,fluent english,1,y
+1822,foosball,1,
+1839,framework design,1,y
+1823,for detail,1,
+1825,forecast demand,1,y
+1828,forecasting systems,1,y
+1829,forecasts,1,
+1830,foreign signals intelligence,1,y
+1831,forensic skills,1,y
+1834,formal modeling processes,1,y
+1835,formal process,1,
+1836,formulating,1,
+1837,frame,1,
+1877,generation,1,
+1879,genetic algorithm,1,y
+1967,gyroscope,1,y
+1949,graph-based algorithms,1,y
+1929,gradient boost,1,y
+1930,gradient boosted trees,1,y
+1932,gradient-boosted,1,y
+1933,gradient-boosted trees,1,y
+1935,graph algorithms,1,y
+1938,graph data,1,y
+1941,graph database analytics,1,y
+1942,graph database design,1,y
+1945,graph network analytics,1,y
+1947,graph structure,1,y
+1950,graph-based analytics,1,y
+1924,governance framework,1,y
+1951,graph-related,1,y
+1952,graphana,1,y
+1953,graphic analysis,1,y
+1954,graphical models,1,y
+1956,graphs.,1,y
+1957,grid reliability studies,1,y
+1958,ground truth generation,1,y
+1960,growth opportunities identification,1,y
+1961,growth strategies,1,
+1962,guiar,1,
+1926,gps,1,y
+1921,goal oriented optimization,1,y
+1881,genetics,1,y
+1897,geological visualization,1,y
+1882,genome-wide datasets,1,y
+1884,genomic data science,1,y
+1885,genomic data sets,1,y
+1886,genomic databases,1,y
+1888,genomics data,1,y
+1889,genotyping,1,y
+1890,geo data,1,y
+1893,geographic cluster recognition,1,y
+1894,geographical data,1,y
+1896,geological modeling,1,y
+1898,geometry,1,y
+1920,goal,1,
+1899,geophysical,1,y
+1900,geoscience consulting,1,y
+1904,geospatial inference,1,y
+1907,german language classes,1,y
+1908,gestionar,1,y
+1909,gint,1,y
+1912,gitlab,1,y
+1913,gizmodo,1,y
+1914,glm/regression,1,y
+1917,globally,1,
+2273,judge,1,
